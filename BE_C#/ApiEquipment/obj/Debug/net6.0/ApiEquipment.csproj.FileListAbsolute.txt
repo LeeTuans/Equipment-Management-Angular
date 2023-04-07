@@ -1,0 +1,1460 @@
+C:\Users\hcnam\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\hcnam\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\appsettings.json
+C:\Users\hcnam\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\ApiEquipment.exe
+C:\Users\hcnam\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\ApiEquipment.deps.json
+C:\Users\hcnam\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\ApiEquipment.runtimeconfig.json
+C:\Users\hcnam\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\ApiEquipment.dll
+C:\Users\hcnam\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\ApiEquipment.pdb
+C:\Users\hcnam\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\hcnam\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\hcnam\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\Humanizer.dll
+C:\Users\hcnam\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\hcnam\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\hcnam\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\hcnam\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\hcnam\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\hcnam\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\hcnam\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\hcnam\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\hcnam\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\hcnam\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\hcnam\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\hcnam\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\hcnam\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\hcnam\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\hcnam\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\hcnam\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\hcnam\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\hcnam\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\hcnam\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\hcnam\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\hcnam\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\hcnam\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\hcnam\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\hcnam\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\hcnam\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\hcnam\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\hcnam\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\hcnam\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Users\hcnam\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\hcnam\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\hcnam\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\hcnam\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\hcnam\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\hcnam\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\hcnam\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\hcnam\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\hcnam\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\hcnam\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\hcnam\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\hcnam\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\hcnam\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\hcnam\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\hcnam\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\hcnam\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\hcnam\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\hcnam\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\hcnam\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\hcnam\Desktop\ApiEquipment\ApiEquipment\obj\Debug\net6.0\ApiEquipment.csproj.AssemblyReference.cache
+C:\Users\hcnam\Desktop\ApiEquipment\ApiEquipment\obj\Debug\net6.0\ApiEquipment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hcnam\Desktop\ApiEquipment\ApiEquipment\obj\Debug\net6.0\ApiEquipment.AssemblyInfoInputs.cache
+C:\Users\hcnam\Desktop\ApiEquipment\ApiEquipment\obj\Debug\net6.0\ApiEquipment.AssemblyInfo.cs
+C:\Users\hcnam\Desktop\ApiEquipment\ApiEquipment\obj\Debug\net6.0\ApiEquipment.csproj.CoreCompileInputs.cache
+C:\Users\hcnam\Desktop\ApiEquipment\ApiEquipment\obj\Debug\net6.0\ApiEquipment.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\hcnam\Desktop\ApiEquipment\ApiEquipment\obj\Debug\net6.0\staticwebassets\msbuild.ApiEquipment.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\hcnam\Desktop\ApiEquipment\ApiEquipment\obj\Debug\net6.0\staticwebassets\msbuild.build.ApiEquipment.props
+C:\Users\hcnam\Desktop\ApiEquipment\ApiEquipment\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ApiEquipment.props
+C:\Users\hcnam\Desktop\ApiEquipment\ApiEquipment\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ApiEquipment.props
+C:\Users\hcnam\Desktop\ApiEquipment\ApiEquipment\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\hcnam\Desktop\ApiEquipment\ApiEquipment\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\hcnam\Desktop\ApiEquipment\ApiEquipment\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\hcnam\Desktop\ApiEquipment\ApiEquipment\obj\Debug\net6.0\scopedcss\bundle\ApiEquipment.styles.css
+C:\Users\hcnam\Desktop\ApiEquipment\ApiEquipment\obj\Debug\net6.0\ApiEquipment.csproj.CopyComplete
+C:\Users\hcnam\Desktop\ApiEquipment\ApiEquipment\obj\Debug\net6.0\ApiEquipment.dll
+C:\Users\hcnam\Desktop\ApiEquipment\ApiEquipment\obj\Debug\net6.0\refint\ApiEquipment.dll
+C:\Users\hcnam\Desktop\ApiEquipment\ApiEquipment\obj\Debug\net6.0\ApiEquipment.pdb
+C:\Users\hcnam\Desktop\ApiEquipment\ApiEquipment\obj\Debug\net6.0\ApiEquipment.genruntimeconfig.cache
+C:\Users\hcnam\Desktop\ApiEquipment\ApiEquipment\obj\Debug\net6.0\ref\ApiEquipment.dll
+C:\Users\hcnam\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\MessagePack.dll
+C:\Users\hcnam\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\MessagePack.Annotations.dll
+C:\Users\hcnam\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\hcnam\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\Microsoft.Build.dll
+C:\Users\hcnam\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\Microsoft.Build.Framework.dll
+C:\Users\hcnam\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+C:\Users\hcnam\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+C:\Users\hcnam\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\hcnam\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+C:\Users\hcnam\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\hcnam\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\hcnam\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+C:\Users\hcnam\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\hcnam\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\hcnam\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\hcnam\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Features.dll
+C:\Users\hcnam\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Workspaces.dll
+C:\Users\hcnam\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\hcnam\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\Users\hcnam\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+C:\Users\hcnam\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+C:\Users\hcnam\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\Microsoft.NET.StringTools.dll
+C:\Users\hcnam\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+C:\Users\hcnam\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\hcnam\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\hcnam\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\hcnam\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\hcnam\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\hcnam\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\hcnam\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\hcnam\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\hcnam\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\NuGet.Common.dll
+C:\Users\hcnam\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\NuGet.Configuration.dll
+C:\Users\hcnam\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+C:\Users\hcnam\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\NuGet.Frameworks.dll
+C:\Users\hcnam\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\NuGet.LibraryModel.dll
+C:\Users\hcnam\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\NuGet.Packaging.dll
+C:\Users\hcnam\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\NuGet.ProjectModel.dll
+C:\Users\hcnam\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\NuGet.Protocol.dll
+C:\Users\hcnam\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\NuGet.Versioning.dll
+C:\Users\hcnam\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+C:\Users\hcnam\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\System.Composition.Convention.dll
+C:\Users\hcnam\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\System.Composition.Hosting.dll
+C:\Users\hcnam\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\System.Composition.Runtime.dll
+C:\Users\hcnam\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\System.Composition.TypedParts.dll
+C:\Users\hcnam\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\System.Reflection.MetadataLoadContext.dll
+C:\Users\hcnam\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hcnam\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hcnam\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hcnam\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hcnam\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hcnam\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hcnam\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hcnam\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hcnam\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hcnam\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hcnam\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hcnam\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hcnam\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hcnam\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hcnam\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hcnam\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hcnam\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hcnam\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hcnam\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hcnam\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hcnam\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hcnam\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hcnam\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hcnam\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hcnam\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hcnam\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hcnam\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\hcnam\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\hcnam\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\hcnam\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\hcnam\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\hcnam\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\hcnam\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\hcnam\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\hcnam\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\hcnam\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\hcnam\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\hcnam\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\hcnam\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\hcnam\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\hcnam\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\hcnam\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\hcnam\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\hcnam\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\hcnam\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\hcnam\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\hcnam\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\hcnam\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\hcnam\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\hcnam\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\hcnam\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\hcnam\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\hcnam\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hcnam\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hcnam\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hcnam\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hcnam\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hcnam\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hcnam\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hcnam\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hcnam\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hcnam\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hcnam\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hcnam\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hcnam\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hcnam\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\hcnam\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\hcnam\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\hcnam\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\hcnam\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\hcnam\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\hcnam\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\hcnam\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\hcnam\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\hcnam\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\hcnam\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\hcnam\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\hcnam\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\hcnam\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\hcnam\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\hcnam\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\hcnam\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\hcnam\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\hcnam\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\hcnam\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\hcnam\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\hcnam\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\hcnam\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\hcnam\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\hcnam\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\hcnam\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\hcnam\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\hcnam\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\hcnam\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\hcnam\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\hcnam\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\hcnam\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\hcnam\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\hcnam\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\hcnam\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\hcnam\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\hcnam\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\hcnam\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\hcnam\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\hcnam\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\hcnam\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\hcnam\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\hcnam\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\hcnam\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\hcnam\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\hcnam\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\hcnam\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\hcnam\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\hcnam\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\hcnam\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\hcnam\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\hcnam\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\hcnam\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\hcnam\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\hcnam\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\hcnam\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\hcnam\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\hcnam\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\hcnam\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\hcnam\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\hcnam\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\hcnam\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\hcnam\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\hcnam\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\hcnam\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\hcnam\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hcnam\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hcnam\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hcnam\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hcnam\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hcnam\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hcnam\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hcnam\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hcnam\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hcnam\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hcnam\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hcnam\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hcnam\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hcnam\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\hcnam\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\hcnam\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\hcnam\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\hcnam\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\hcnam\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\hcnam\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\hcnam\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\hcnam\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\hcnam\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\hcnam\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\hcnam\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\hcnam\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\hcnam\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\hcnam\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\hcnam\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\hcnam\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\hcnam\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\hcnam\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\hcnam\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\hcnam\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\hcnam\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\hcnam\Desktop\ApiEquipment\ApiEquipment\obj\Debug\net6.0\ApiEquipment.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\hcnam\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\hcnam\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\hcnam\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\ha-chanh-nam\Exercises\.NET core for DG4\ApiEquipment\ApiEquipment\bin\Debug\net6.0\appsettings.Development.json
+D:\ha-chanh-nam\Exercises\.NET core for DG4\ApiEquipment\ApiEquipment\bin\Debug\net6.0\appsettings.json
+D:\ha-chanh-nam\Exercises\.NET core for DG4\ApiEquipment\ApiEquipment\bin\Debug\net6.0\ApiEquipment.exe
+D:\ha-chanh-nam\Exercises\.NET core for DG4\ApiEquipment\ApiEquipment\bin\Debug\net6.0\ApiEquipment.deps.json
+D:\ha-chanh-nam\Exercises\.NET core for DG4\ApiEquipment\ApiEquipment\bin\Debug\net6.0\ApiEquipment.runtimeconfig.json
+D:\ha-chanh-nam\Exercises\.NET core for DG4\ApiEquipment\ApiEquipment\bin\Debug\net6.0\ApiEquipment.dll
+D:\ha-chanh-nam\Exercises\.NET core for DG4\ApiEquipment\ApiEquipment\bin\Debug\net6.0\ApiEquipment.pdb
+D:\ha-chanh-nam\Exercises\.NET core for DG4\ApiEquipment\ApiEquipment\bin\Debug\net6.0\AutoMapper.dll
+D:\ha-chanh-nam\Exercises\.NET core for DG4\ApiEquipment\ApiEquipment\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\ha-chanh-nam\Exercises\.NET core for DG4\ApiEquipment\ApiEquipment\bin\Debug\net6.0\Azure.Core.dll
+D:\ha-chanh-nam\Exercises\.NET core for DG4\ApiEquipment\ApiEquipment\bin\Debug\net6.0\Azure.Identity.dll
+D:\ha-chanh-nam\Exercises\.NET core for DG4\ApiEquipment\ApiEquipment\bin\Debug\net6.0\Humanizer.dll
+D:\ha-chanh-nam\Exercises\.NET core for DG4\ApiEquipment\ApiEquipment\bin\Debug\net6.0\MessagePack.dll
+D:\ha-chanh-nam\Exercises\.NET core for DG4\ApiEquipment\ApiEquipment\bin\Debug\net6.0\MessagePack.Annotations.dll
+D:\ha-chanh-nam\Exercises\.NET core for DG4\ApiEquipment\ApiEquipment\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\ha-chanh-nam\Exercises\.NET core for DG4\ApiEquipment\ApiEquipment\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+D:\ha-chanh-nam\Exercises\.NET core for DG4\ApiEquipment\ApiEquipment\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\ha-chanh-nam\Exercises\.NET core for DG4\ApiEquipment\ApiEquipment\bin\Debug\net6.0\Microsoft.Build.dll
+D:\ha-chanh-nam\Exercises\.NET core for DG4\ApiEquipment\ApiEquipment\bin\Debug\net6.0\Microsoft.Build.Framework.dll
+D:\ha-chanh-nam\Exercises\.NET core for DG4\ApiEquipment\ApiEquipment\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+D:\ha-chanh-nam\Exercises\.NET core for DG4\ApiEquipment\ApiEquipment\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+D:\ha-chanh-nam\Exercises\.NET core for DG4\ApiEquipment\ApiEquipment\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\ha-chanh-nam\Exercises\.NET core for DG4\ApiEquipment\ApiEquipment\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+D:\ha-chanh-nam\Exercises\.NET core for DG4\ApiEquipment\ApiEquipment\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\ha-chanh-nam\Exercises\.NET core for DG4\ApiEquipment\ApiEquipment\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\ha-chanh-nam\Exercises\.NET core for DG4\ApiEquipment\ApiEquipment\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+D:\ha-chanh-nam\Exercises\.NET core for DG4\ApiEquipment\ApiEquipment\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+D:\ha-chanh-nam\Exercises\.NET core for DG4\ApiEquipment\ApiEquipment\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+D:\ha-chanh-nam\Exercises\.NET core for DG4\ApiEquipment\ApiEquipment\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\ha-chanh-nam\Exercises\.NET core for DG4\ApiEquipment\ApiEquipment\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Features.dll
+D:\ha-chanh-nam\Exercises\.NET core for DG4\ApiEquipment\ApiEquipment\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Workspaces.dll
+D:\ha-chanh-nam\Exercises\.NET core for DG4\ApiEquipment\ApiEquipment\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\ha-chanh-nam\Exercises\.NET core for DG4\ApiEquipment\ApiEquipment\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+D:\ha-chanh-nam\Exercises\.NET core for DG4\ApiEquipment\ApiEquipment\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\ha-chanh-nam\Exercises\.NET core for DG4\ApiEquipment\ApiEquipment\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+D:\ha-chanh-nam\Exercises\.NET core for DG4\ApiEquipment\ApiEquipment\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+D:\ha-chanh-nam\Exercises\.NET core for DG4\ApiEquipment\ApiEquipment\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\ha-chanh-nam\Exercises\.NET core for DG4\ApiEquipment\ApiEquipment\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\ha-chanh-nam\Exercises\.NET core for DG4\ApiEquipment\ApiEquipment\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\ha-chanh-nam\Exercises\.NET core for DG4\ApiEquipment\ApiEquipment\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\ha-chanh-nam\Exercises\.NET core for DG4\ApiEquipment\ApiEquipment\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\ha-chanh-nam\Exercises\.NET core for DG4\ApiEquipment\ApiEquipment\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\ha-chanh-nam\Exercises\.NET core for DG4\ApiEquipment\ApiEquipment\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\ha-chanh-nam\Exercises\.NET core for DG4\ApiEquipment\ApiEquipment\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\ha-chanh-nam\Exercises\.NET core for DG4\ApiEquipment\ApiEquipment\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\ha-chanh-nam\Exercises\.NET core for DG4\ApiEquipment\ApiEquipment\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\ha-chanh-nam\Exercises\.NET core for DG4\ApiEquipment\ApiEquipment\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+D:\ha-chanh-nam\Exercises\.NET core for DG4\ApiEquipment\ApiEquipment\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+D:\ha-chanh-nam\Exercises\.NET core for DG4\ApiEquipment\ApiEquipment\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\ha-chanh-nam\Exercises\.NET core for DG4\ApiEquipment\ApiEquipment\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+D:\ha-chanh-nam\Exercises\.NET core for DG4\ApiEquipment\ApiEquipment\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\ha-chanh-nam\Exercises\.NET core for DG4\ApiEquipment\ApiEquipment\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\ha-chanh-nam\Exercises\.NET core for DG4\ApiEquipment\ApiEquipment\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\ha-chanh-nam\Exercises\.NET core for DG4\ApiEquipment\ApiEquipment\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\ha-chanh-nam\Exercises\.NET core for DG4\ApiEquipment\ApiEquipment\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\ha-chanh-nam\Exercises\.NET core for DG4\ApiEquipment\ApiEquipment\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\ha-chanh-nam\Exercises\.NET core for DG4\ApiEquipment\ApiEquipment\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\ha-chanh-nam\Exercises\.NET core for DG4\ApiEquipment\ApiEquipment\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\ha-chanh-nam\Exercises\.NET core for DG4\ApiEquipment\ApiEquipment\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\ha-chanh-nam\Exercises\.NET core for DG4\ApiEquipment\ApiEquipment\bin\Debug\net6.0\Microsoft.NET.StringTools.dll
+D:\ha-chanh-nam\Exercises\.NET core for DG4\ApiEquipment\ApiEquipment\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\ha-chanh-nam\Exercises\.NET core for DG4\ApiEquipment\ApiEquipment\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+D:\ha-chanh-nam\Exercises\.NET core for DG4\ApiEquipment\ApiEquipment\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+D:\ha-chanh-nam\Exercises\.NET core for DG4\ApiEquipment\ApiEquipment\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+D:\ha-chanh-nam\Exercises\.NET core for DG4\ApiEquipment\ApiEquipment\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+D:\ha-chanh-nam\Exercises\.NET core for DG4\ApiEquipment\ApiEquipment\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+D:\ha-chanh-nam\Exercises\.NET core for DG4\ApiEquipment\ApiEquipment\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+D:\ha-chanh-nam\Exercises\.NET core for DG4\ApiEquipment\ApiEquipment\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+D:\ha-chanh-nam\Exercises\.NET core for DG4\ApiEquipment\ApiEquipment\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+D:\ha-chanh-nam\Exercises\.NET core for DG4\ApiEquipment\ApiEquipment\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+D:\ha-chanh-nam\Exercises\.NET core for DG4\ApiEquipment\ApiEquipment\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\ha-chanh-nam\Exercises\.NET core for DG4\ApiEquipment\ApiEquipment\bin\Debug\net6.0\Mono.TextTemplating.dll
+D:\ha-chanh-nam\Exercises\.NET core for DG4\ApiEquipment\ApiEquipment\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\ha-chanh-nam\Exercises\.NET core for DG4\ApiEquipment\ApiEquipment\bin\Debug\net6.0\NuGet.Common.dll
+D:\ha-chanh-nam\Exercises\.NET core for DG4\ApiEquipment\ApiEquipment\bin\Debug\net6.0\NuGet.Configuration.dll
+D:\ha-chanh-nam\Exercises\.NET core for DG4\ApiEquipment\ApiEquipment\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+D:\ha-chanh-nam\Exercises\.NET core for DG4\ApiEquipment\ApiEquipment\bin\Debug\net6.0\NuGet.Frameworks.dll
+D:\ha-chanh-nam\Exercises\.NET core for DG4\ApiEquipment\ApiEquipment\bin\Debug\net6.0\NuGet.LibraryModel.dll
+D:\ha-chanh-nam\Exercises\.NET core for DG4\ApiEquipment\ApiEquipment\bin\Debug\net6.0\NuGet.Packaging.dll
+D:\ha-chanh-nam\Exercises\.NET core for DG4\ApiEquipment\ApiEquipment\bin\Debug\net6.0\NuGet.ProjectModel.dll
+D:\ha-chanh-nam\Exercises\.NET core for DG4\ApiEquipment\ApiEquipment\bin\Debug\net6.0\NuGet.Protocol.dll
+D:\ha-chanh-nam\Exercises\.NET core for DG4\ApiEquipment\ApiEquipment\bin\Debug\net6.0\NuGet.Versioning.dll
+D:\ha-chanh-nam\Exercises\.NET core for DG4\ApiEquipment\ApiEquipment\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\ha-chanh-nam\Exercises\.NET core for DG4\ApiEquipment\ApiEquipment\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\ha-chanh-nam\Exercises\.NET core for DG4\ApiEquipment\ApiEquipment\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\ha-chanh-nam\Exercises\.NET core for DG4\ApiEquipment\ApiEquipment\bin\Debug\net6.0\System.CodeDom.dll
+D:\ha-chanh-nam\Exercises\.NET core for DG4\ApiEquipment\ApiEquipment\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+D:\ha-chanh-nam\Exercises\.NET core for DG4\ApiEquipment\ApiEquipment\bin\Debug\net6.0\System.Composition.Convention.dll
+D:\ha-chanh-nam\Exercises\.NET core for DG4\ApiEquipment\ApiEquipment\bin\Debug\net6.0\System.Composition.Hosting.dll
+D:\ha-chanh-nam\Exercises\.NET core for DG4\ApiEquipment\ApiEquipment\bin\Debug\net6.0\System.Composition.Runtime.dll
+D:\ha-chanh-nam\Exercises\.NET core for DG4\ApiEquipment\ApiEquipment\bin\Debug\net6.0\System.Composition.TypedParts.dll
+D:\ha-chanh-nam\Exercises\.NET core for DG4\ApiEquipment\ApiEquipment\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\ha-chanh-nam\Exercises\.NET core for DG4\ApiEquipment\ApiEquipment\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\ha-chanh-nam\Exercises\.NET core for DG4\ApiEquipment\ApiEquipment\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\ha-chanh-nam\Exercises\.NET core for DG4\ApiEquipment\ApiEquipment\bin\Debug\net6.0\System.Memory.Data.dll
+D:\ha-chanh-nam\Exercises\.NET core for DG4\ApiEquipment\ApiEquipment\bin\Debug\net6.0\System.Reflection.MetadataLoadContext.dll
+D:\ha-chanh-nam\Exercises\.NET core for DG4\ApiEquipment\ApiEquipment\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\ha-chanh-nam\Exercises\.NET core for DG4\ApiEquipment\ApiEquipment\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\ha-chanh-nam\Exercises\.NET core for DG4\ApiEquipment\ApiEquipment\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\ha-chanh-nam\Exercises\.NET core for DG4\ApiEquipment\ApiEquipment\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+D:\ha-chanh-nam\Exercises\.NET core for DG4\ApiEquipment\ApiEquipment\bin\Debug\net6.0\System.Text.Json.dll
+D:\ha-chanh-nam\Exercises\.NET core for DG4\ApiEquipment\ApiEquipment\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\ha-chanh-nam\Exercises\.NET core for DG4\ApiEquipment\ApiEquipment\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\ha-chanh-nam\Exercises\.NET core for DG4\ApiEquipment\ApiEquipment\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\ha-chanh-nam\Exercises\.NET core for DG4\ApiEquipment\ApiEquipment\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\ha-chanh-nam\Exercises\.NET core for DG4\ApiEquipment\ApiEquipment\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\ha-chanh-nam\Exercises\.NET core for DG4\ApiEquipment\ApiEquipment\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\ha-chanh-nam\Exercises\.NET core for DG4\ApiEquipment\ApiEquipment\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\ha-chanh-nam\Exercises\.NET core for DG4\ApiEquipment\ApiEquipment\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\ha-chanh-nam\Exercises\.NET core for DG4\ApiEquipment\ApiEquipment\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\ha-chanh-nam\Exercises\.NET core for DG4\ApiEquipment\ApiEquipment\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\ha-chanh-nam\Exercises\.NET core for DG4\ApiEquipment\ApiEquipment\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\ha-chanh-nam\Exercises\.NET core for DG4\ApiEquipment\ApiEquipment\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\ha-chanh-nam\Exercises\.NET core for DG4\ApiEquipment\ApiEquipment\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\ha-chanh-nam\Exercises\.NET core for DG4\ApiEquipment\ApiEquipment\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\ha-chanh-nam\Exercises\.NET core for DG4\ApiEquipment\ApiEquipment\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ha-chanh-nam\Exercises\.NET core for DG4\ApiEquipment\ApiEquipment\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ha-chanh-nam\Exercises\.NET core for DG4\ApiEquipment\ApiEquipment\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ha-chanh-nam\Exercises\.NET core for DG4\ApiEquipment\ApiEquipment\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ha-chanh-nam\Exercises\.NET core for DG4\ApiEquipment\ApiEquipment\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ha-chanh-nam\Exercises\.NET core for DG4\ApiEquipment\ApiEquipment\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ha-chanh-nam\Exercises\.NET core for DG4\ApiEquipment\ApiEquipment\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ha-chanh-nam\Exercises\.NET core for DG4\ApiEquipment\ApiEquipment\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ha-chanh-nam\Exercises\.NET core for DG4\ApiEquipment\ApiEquipment\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ha-chanh-nam\Exercises\.NET core for DG4\ApiEquipment\ApiEquipment\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ha-chanh-nam\Exercises\.NET core for DG4\ApiEquipment\ApiEquipment\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ha-chanh-nam\Exercises\.NET core for DG4\ApiEquipment\ApiEquipment\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ha-chanh-nam\Exercises\.NET core for DG4\ApiEquipment\ApiEquipment\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\ha-chanh-nam\Exercises\.NET core for DG4\ApiEquipment\ApiEquipment\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\ha-chanh-nam\Exercises\.NET core for DG4\ApiEquipment\ApiEquipment\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\ha-chanh-nam\Exercises\.NET core for DG4\ApiEquipment\ApiEquipment\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\ha-chanh-nam\Exercises\.NET core for DG4\ApiEquipment\ApiEquipment\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\ha-chanh-nam\Exercises\.NET core for DG4\ApiEquipment\ApiEquipment\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\ha-chanh-nam\Exercises\.NET core for DG4\ApiEquipment\ApiEquipment\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\ha-chanh-nam\Exercises\.NET core for DG4\ApiEquipment\ApiEquipment\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\ha-chanh-nam\Exercises\.NET core for DG4\ApiEquipment\ApiEquipment\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\ha-chanh-nam\Exercises\.NET core for DG4\ApiEquipment\ApiEquipment\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\ha-chanh-nam\Exercises\.NET core for DG4\ApiEquipment\ApiEquipment\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\ha-chanh-nam\Exercises\.NET core for DG4\ApiEquipment\ApiEquipment\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\ha-chanh-nam\Exercises\.NET core for DG4\ApiEquipment\ApiEquipment\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\ha-chanh-nam\Exercises\.NET core for DG4\ApiEquipment\ApiEquipment\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+D:\ha-chanh-nam\Exercises\.NET core for DG4\ApiEquipment\ApiEquipment\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\ha-chanh-nam\Exercises\.NET core for DG4\ApiEquipment\ApiEquipment\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\ha-chanh-nam\Exercises\.NET core for DG4\ApiEquipment\ApiEquipment\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\ha-chanh-nam\Exercises\.NET core for DG4\ApiEquipment\ApiEquipment\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\ha-chanh-nam\Exercises\.NET core for DG4\ApiEquipment\ApiEquipment\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\ha-chanh-nam\Exercises\.NET core for DG4\ApiEquipment\ApiEquipment\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\ha-chanh-nam\Exercises\.NET core for DG4\ApiEquipment\ApiEquipment\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\ha-chanh-nam\Exercises\.NET core for DG4\ApiEquipment\ApiEquipment\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\ha-chanh-nam\Exercises\.NET core for DG4\ApiEquipment\ApiEquipment\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\ha-chanh-nam\Exercises\.NET core for DG4\ApiEquipment\ApiEquipment\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\ha-chanh-nam\Exercises\.NET core for DG4\ApiEquipment\ApiEquipment\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\ha-chanh-nam\Exercises\.NET core for DG4\ApiEquipment\ApiEquipment\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\ha-chanh-nam\Exercises\.NET core for DG4\ApiEquipment\ApiEquipment\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+D:\ha-chanh-nam\Exercises\.NET core for DG4\ApiEquipment\ApiEquipment\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ha-chanh-nam\Exercises\.NET core for DG4\ApiEquipment\ApiEquipment\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ha-chanh-nam\Exercises\.NET core for DG4\ApiEquipment\ApiEquipment\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ha-chanh-nam\Exercises\.NET core for DG4\ApiEquipment\ApiEquipment\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ha-chanh-nam\Exercises\.NET core for DG4\ApiEquipment\ApiEquipment\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ha-chanh-nam\Exercises\.NET core for DG4\ApiEquipment\ApiEquipment\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ha-chanh-nam\Exercises\.NET core for DG4\ApiEquipment\ApiEquipment\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ha-chanh-nam\Exercises\.NET core for DG4\ApiEquipment\ApiEquipment\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ha-chanh-nam\Exercises\.NET core for DG4\ApiEquipment\ApiEquipment\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ha-chanh-nam\Exercises\.NET core for DG4\ApiEquipment\ApiEquipment\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ha-chanh-nam\Exercises\.NET core for DG4\ApiEquipment\ApiEquipment\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ha-chanh-nam\Exercises\.NET core for DG4\ApiEquipment\ApiEquipment\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ha-chanh-nam\Exercises\.NET core for DG4\ApiEquipment\ApiEquipment\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\ha-chanh-nam\Exercises\.NET core for DG4\ApiEquipment\ApiEquipment\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+D:\ha-chanh-nam\Exercises\.NET core for DG4\ApiEquipment\ApiEquipment\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+D:\ha-chanh-nam\Exercises\.NET core for DG4\ApiEquipment\ApiEquipment\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+D:\ha-chanh-nam\Exercises\.NET core for DG4\ApiEquipment\ApiEquipment\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\ha-chanh-nam\Exercises\.NET core for DG4\ApiEquipment\ApiEquipment\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+D:\ha-chanh-nam\Exercises\.NET core for DG4\ApiEquipment\ApiEquipment\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+D:\ha-chanh-nam\Exercises\.NET core for DG4\ApiEquipment\ApiEquipment\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+D:\ha-chanh-nam\Exercises\.NET core for DG4\ApiEquipment\ApiEquipment\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+D:\ha-chanh-nam\Exercises\.NET core for DG4\ApiEquipment\ApiEquipment\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+D:\ha-chanh-nam\Exercises\.NET core for DG4\ApiEquipment\ApiEquipment\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+D:\ha-chanh-nam\Exercises\.NET core for DG4\ApiEquipment\ApiEquipment\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+D:\ha-chanh-nam\Exercises\.NET core for DG4\ApiEquipment\ApiEquipment\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+D:\ha-chanh-nam\Exercises\.NET core for DG4\ApiEquipment\ApiEquipment\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+D:\ha-chanh-nam\Exercises\.NET core for DG4\ApiEquipment\ApiEquipment\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\ha-chanh-nam\Exercises\.NET core for DG4\ApiEquipment\ApiEquipment\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\ha-chanh-nam\Exercises\.NET core for DG4\ApiEquipment\ApiEquipment\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\ha-chanh-nam\Exercises\.NET core for DG4\ApiEquipment\ApiEquipment\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\ha-chanh-nam\Exercises\.NET core for DG4\ApiEquipment\ApiEquipment\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\ha-chanh-nam\Exercises\.NET core for DG4\ApiEquipment\ApiEquipment\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\ha-chanh-nam\Exercises\.NET core for DG4\ApiEquipment\ApiEquipment\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\ha-chanh-nam\Exercises\.NET core for DG4\ApiEquipment\ApiEquipment\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\ha-chanh-nam\Exercises\.NET core for DG4\ApiEquipment\ApiEquipment\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\ha-chanh-nam\Exercises\.NET core for DG4\ApiEquipment\ApiEquipment\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\ha-chanh-nam\Exercises\.NET core for DG4\ApiEquipment\ApiEquipment\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\ha-chanh-nam\Exercises\.NET core for DG4\ApiEquipment\ApiEquipment\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\ha-chanh-nam\Exercises\.NET core for DG4\ApiEquipment\ApiEquipment\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+D:\ha-chanh-nam\Exercises\.NET core for DG4\ApiEquipment\ApiEquipment\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\ha-chanh-nam\Exercises\.NET core for DG4\ApiEquipment\ApiEquipment\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\ha-chanh-nam\Exercises\.NET core for DG4\ApiEquipment\ApiEquipment\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\ha-chanh-nam\Exercises\.NET core for DG4\ApiEquipment\ApiEquipment\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\ha-chanh-nam\Exercises\.NET core for DG4\ApiEquipment\ApiEquipment\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\ha-chanh-nam\Exercises\.NET core for DG4\ApiEquipment\ApiEquipment\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\ha-chanh-nam\Exercises\.NET core for DG4\ApiEquipment\ApiEquipment\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\ha-chanh-nam\Exercises\.NET core for DG4\ApiEquipment\ApiEquipment\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\ha-chanh-nam\Exercises\.NET core for DG4\ApiEquipment\ApiEquipment\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\ha-chanh-nam\Exercises\.NET core for DG4\ApiEquipment\ApiEquipment\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\ha-chanh-nam\Exercises\.NET core for DG4\ApiEquipment\ApiEquipment\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\ha-chanh-nam\Exercises\.NET core for DG4\ApiEquipment\ApiEquipment\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\ha-chanh-nam\Exercises\.NET core for DG4\ApiEquipment\ApiEquipment\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+D:\ha-chanh-nam\Exercises\.NET core for DG4\ApiEquipment\ApiEquipment\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\ha-chanh-nam\Exercises\.NET core for DG4\ApiEquipment\ApiEquipment\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\ha-chanh-nam\Exercises\.NET core for DG4\ApiEquipment\ApiEquipment\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\ha-chanh-nam\Exercises\.NET core for DG4\ApiEquipment\ApiEquipment\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\ha-chanh-nam\Exercises\.NET core for DG4\ApiEquipment\ApiEquipment\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\ha-chanh-nam\Exercises\.NET core for DG4\ApiEquipment\ApiEquipment\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\ha-chanh-nam\Exercises\.NET core for DG4\ApiEquipment\ApiEquipment\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\ha-chanh-nam\Exercises\.NET core for DG4\ApiEquipment\ApiEquipment\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\ha-chanh-nam\Exercises\.NET core for DG4\ApiEquipment\ApiEquipment\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\ha-chanh-nam\Exercises\.NET core for DG4\ApiEquipment\ApiEquipment\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\ha-chanh-nam\Exercises\.NET core for DG4\ApiEquipment\ApiEquipment\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\ha-chanh-nam\Exercises\.NET core for DG4\ApiEquipment\ApiEquipment\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\ha-chanh-nam\Exercises\.NET core for DG4\ApiEquipment\ApiEquipment\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+D:\ha-chanh-nam\Exercises\.NET core for DG4\ApiEquipment\ApiEquipment\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\ha-chanh-nam\Exercises\.NET core for DG4\ApiEquipment\ApiEquipment\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\ha-chanh-nam\Exercises\.NET core for DG4\ApiEquipment\ApiEquipment\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\ha-chanh-nam\Exercises\.NET core for DG4\ApiEquipment\ApiEquipment\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\ha-chanh-nam\Exercises\.NET core for DG4\ApiEquipment\ApiEquipment\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\ha-chanh-nam\Exercises\.NET core for DG4\ApiEquipment\ApiEquipment\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\ha-chanh-nam\Exercises\.NET core for DG4\ApiEquipment\ApiEquipment\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\ha-chanh-nam\Exercises\.NET core for DG4\ApiEquipment\ApiEquipment\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\ha-chanh-nam\Exercises\.NET core for DG4\ApiEquipment\ApiEquipment\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\ha-chanh-nam\Exercises\.NET core for DG4\ApiEquipment\ApiEquipment\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\ha-chanh-nam\Exercises\.NET core for DG4\ApiEquipment\ApiEquipment\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\ha-chanh-nam\Exercises\.NET core for DG4\ApiEquipment\ApiEquipment\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\ha-chanh-nam\Exercises\.NET core for DG4\ApiEquipment\ApiEquipment\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+D:\ha-chanh-nam\Exercises\.NET core for DG4\ApiEquipment\ApiEquipment\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ha-chanh-nam\Exercises\.NET core for DG4\ApiEquipment\ApiEquipment\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ha-chanh-nam\Exercises\.NET core for DG4\ApiEquipment\ApiEquipment\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ha-chanh-nam\Exercises\.NET core for DG4\ApiEquipment\ApiEquipment\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ha-chanh-nam\Exercises\.NET core for DG4\ApiEquipment\ApiEquipment\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ha-chanh-nam\Exercises\.NET core for DG4\ApiEquipment\ApiEquipment\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ha-chanh-nam\Exercises\.NET core for DG4\ApiEquipment\ApiEquipment\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ha-chanh-nam\Exercises\.NET core for DG4\ApiEquipment\ApiEquipment\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ha-chanh-nam\Exercises\.NET core for DG4\ApiEquipment\ApiEquipment\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ha-chanh-nam\Exercises\.NET core for DG4\ApiEquipment\ApiEquipment\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ha-chanh-nam\Exercises\.NET core for DG4\ApiEquipment\ApiEquipment\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ha-chanh-nam\Exercises\.NET core for DG4\ApiEquipment\ApiEquipment\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ha-chanh-nam\Exercises\.NET core for DG4\ApiEquipment\ApiEquipment\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\ha-chanh-nam\Exercises\.NET core for DG4\ApiEquipment\ApiEquipment\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\ha-chanh-nam\Exercises\.NET core for DG4\ApiEquipment\ApiEquipment\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\ha-chanh-nam\Exercises\.NET core for DG4\ApiEquipment\ApiEquipment\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\ha-chanh-nam\Exercises\.NET core for DG4\ApiEquipment\ApiEquipment\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\ha-chanh-nam\Exercises\.NET core for DG4\ApiEquipment\ApiEquipment\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\ha-chanh-nam\Exercises\.NET core for DG4\ApiEquipment\ApiEquipment\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\ha-chanh-nam\Exercises\.NET core for DG4\ApiEquipment\ApiEquipment\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\ha-chanh-nam\Exercises\.NET core for DG4\ApiEquipment\ApiEquipment\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\ha-chanh-nam\Exercises\.NET core for DG4\ApiEquipment\ApiEquipment\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\ha-chanh-nam\Exercises\.NET core for DG4\ApiEquipment\ApiEquipment\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\ha-chanh-nam\Exercises\.NET core for DG4\ApiEquipment\ApiEquipment\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\ha-chanh-nam\Exercises\.NET core for DG4\ApiEquipment\ApiEquipment\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\ha-chanh-nam\Exercises\.NET core for DG4\ApiEquipment\ApiEquipment\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+D:\ha-chanh-nam\Exercises\.NET core for DG4\ApiEquipment\ApiEquipment\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\ha-chanh-nam\Exercises\.NET core for DG4\ApiEquipment\ApiEquipment\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\ha-chanh-nam\Exercises\.NET core for DG4\ApiEquipment\ApiEquipment\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ha-chanh-nam\Exercises\.NET core for DG4\ApiEquipment\ApiEquipment\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ha-chanh-nam\Exercises\.NET core for DG4\ApiEquipment\ApiEquipment\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ha-chanh-nam\Exercises\.NET core for DG4\ApiEquipment\ApiEquipment\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ha-chanh-nam\Exercises\.NET core for DG4\ApiEquipment\ApiEquipment\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\ha-chanh-nam\Exercises\.NET core for DG4\ApiEquipment\ApiEquipment\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\ha-chanh-nam\Exercises\.NET core for DG4\ApiEquipment\ApiEquipment\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\ha-chanh-nam\Exercises\.NET core for DG4\ApiEquipment\ApiEquipment\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\ha-chanh-nam\Exercises\.NET core for DG4\ApiEquipment\ApiEquipment\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\ha-chanh-nam\Exercises\.NET core for DG4\ApiEquipment\ApiEquipment\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\ha-chanh-nam\Exercises\.NET core for DG4\ApiEquipment\ApiEquipment\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\ha-chanh-nam\Exercises\.NET core for DG4\ApiEquipment\ApiEquipment\obj\Debug\net6.0\ApiEquipment.csproj.AssemblyReference.cache
+D:\ha-chanh-nam\Exercises\.NET core for DG4\ApiEquipment\ApiEquipment\obj\Debug\net6.0\ApiEquipment.GeneratedMSBuildEditorConfig.editorconfig
+D:\ha-chanh-nam\Exercises\.NET core for DG4\ApiEquipment\ApiEquipment\obj\Debug\net6.0\ApiEquipment.AssemblyInfoInputs.cache
+D:\ha-chanh-nam\Exercises\.NET core for DG4\ApiEquipment\ApiEquipment\obj\Debug\net6.0\ApiEquipment.AssemblyInfo.cs
+D:\ha-chanh-nam\Exercises\.NET core for DG4\ApiEquipment\ApiEquipment\obj\Debug\net6.0\ApiEquipment.csproj.CoreCompileInputs.cache
+D:\ha-chanh-nam\Exercises\.NET core for DG4\ApiEquipment\ApiEquipment\obj\Debug\net6.0\ApiEquipment.MvcApplicationPartsAssemblyInfo.cs
+D:\ha-chanh-nam\Exercises\.NET core for DG4\ApiEquipment\ApiEquipment\obj\Debug\net6.0\ApiEquipment.MvcApplicationPartsAssemblyInfo.cache
+D:\ha-chanh-nam\Exercises\.NET core for DG4\ApiEquipment\ApiEquipment\obj\Debug\net6.0\staticwebassets\msbuild.ApiEquipment.Microsoft.AspNetCore.StaticWebAssets.props
+D:\ha-chanh-nam\Exercises\.NET core for DG4\ApiEquipment\ApiEquipment\obj\Debug\net6.0\staticwebassets\msbuild.build.ApiEquipment.props
+D:\ha-chanh-nam\Exercises\.NET core for DG4\ApiEquipment\ApiEquipment\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ApiEquipment.props
+D:\ha-chanh-nam\Exercises\.NET core for DG4\ApiEquipment\ApiEquipment\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ApiEquipment.props
+D:\ha-chanh-nam\Exercises\.NET core for DG4\ApiEquipment\ApiEquipment\obj\Debug\net6.0\staticwebassets.pack.json
+D:\ha-chanh-nam\Exercises\.NET core for DG4\ApiEquipment\ApiEquipment\obj\Debug\net6.0\staticwebassets.build.json
+D:\ha-chanh-nam\Exercises\.NET core for DG4\ApiEquipment\ApiEquipment\obj\Debug\net6.0\staticwebassets.development.json
+D:\ha-chanh-nam\Exercises\.NET core for DG4\ApiEquipment\ApiEquipment\obj\Debug\net6.0\scopedcss\bundle\ApiEquipment.styles.css
+D:\ha-chanh-nam\Exercises\.NET core for DG4\ApiEquipment\ApiEquipment\obj\Debug\net6.0\ApiEquipment.csproj.CopyComplete
+D:\ha-chanh-nam\Exercises\.NET core for DG4\ApiEquipment\ApiEquipment\obj\Debug\net6.0\ApiEquipment.dll
+D:\ha-chanh-nam\Exercises\.NET core for DG4\ApiEquipment\ApiEquipment\obj\Debug\net6.0\refint\ApiEquipment.dll
+D:\ha-chanh-nam\Exercises\.NET core for DG4\ApiEquipment\ApiEquipment\obj\Debug\net6.0\ApiEquipment.pdb
+D:\ha-chanh-nam\Exercises\.NET core for DG4\ApiEquipment\ApiEquipment\obj\Debug\net6.0\ApiEquipment.genruntimeconfig.cache
+D:\ha-chanh-nam\Exercises\.NET core for DG4\ApiEquipment\ApiEquipment\obj\Debug\net6.0\ref\ApiEquipment.dll
+C:\Users\Asus\Desktop\ApiEquipment\ApiEquipment\obj\Debug\net6.0\ApiEquipment.csproj.AssemblyReference.cache
+C:\Users\Asus\Desktop\ApiEquipment\ApiEquipment\obj\Debug\net6.0\ApiEquipment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\ApiEquipment\ApiEquipment\obj\Debug\net6.0\ApiEquipment.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\ApiEquipment\ApiEquipment\obj\Debug\net6.0\ApiEquipment.AssemblyInfo.cs
+C:\Users\Asus\Desktop\ApiEquipment\ApiEquipment\obj\Debug\net6.0\ApiEquipment.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\ApiEquipment\ApiEquipment\obj\Debug\net6.0\ApiEquipment.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Asus\Desktop\ApiEquipment\ApiEquipment\obj\Debug\net6.0\ApiEquipment.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Asus\Desktop\ApiEquipment\ApiEquipment\obj\Debug\net6.0\ApiEquipment.dll
+C:\Users\Asus\Desktop\ApiEquipment\ApiEquipment\obj\Debug\net6.0\refint\ApiEquipment.dll
+C:\Users\Asus\Desktop\ApiEquipment\ApiEquipment\obj\Debug\net6.0\ApiEquipment.pdb
+C:\Users\Asus\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Asus\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\appsettings.json
+C:\Users\Asus\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\ApiEquipment.exe
+C:\Users\Asus\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\ApiEquipment.deps.json
+C:\Users\Asus\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\ApiEquipment.runtimeconfig.json
+C:\Users\Asus\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\ApiEquipment.dll
+C:\Users\Asus\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\ApiEquipment.pdb
+C:\Users\Asus\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\Asus\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\Asus\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\Asus\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\Asus\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Asus\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\MessagePack.dll
+C:\Users\Asus\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\MessagePack.Annotations.dll
+C:\Users\Asus\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Asus\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Asus\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Asus\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\Microsoft.Build.dll
+C:\Users\Asus\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\Microsoft.Build.Framework.dll
+C:\Users\Asus\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+C:\Users\Asus\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+C:\Users\Asus\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Asus\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+C:\Users\Asus\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Asus\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Asus\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+C:\Users\Asus\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Asus\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Asus\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Asus\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Features.dll
+C:\Users\Asus\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Workspaces.dll
+C:\Users\Asus\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Asus\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\Users\Asus\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Asus\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+C:\Users\Asus\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+C:\Users\Asus\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Asus\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Asus\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Asus\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Asus\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Asus\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Asus\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Asus\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Asus\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Asus\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Asus\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Asus\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\Asus\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Asus\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\Asus\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Asus\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\Asus\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Asus\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Asus\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Asus\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Asus\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Asus\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Asus\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Asus\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\Microsoft.NET.StringTools.dll
+C:\Users\Asus\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Asus\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\Asus\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+C:\Users\Asus\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Asus\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Asus\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Asus\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Asus\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Asus\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Asus\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Asus\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Asus\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Users\Asus\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Asus\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\NuGet.Common.dll
+C:\Users\Asus\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\NuGet.Configuration.dll
+C:\Users\Asus\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+C:\Users\Asus\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\NuGet.Frameworks.dll
+C:\Users\Asus\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\NuGet.LibraryModel.dll
+C:\Users\Asus\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\NuGet.Packaging.dll
+C:\Users\Asus\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\NuGet.ProjectModel.dll
+C:\Users\Asus\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\NuGet.Protocol.dll
+C:\Users\Asus\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\NuGet.Versioning.dll
+C:\Users\Asus\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Asus\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Asus\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Asus\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\Asus\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+C:\Users\Asus\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\System.Composition.Convention.dll
+C:\Users\Asus\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\System.Composition.Hosting.dll
+C:\Users\Asus\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\System.Composition.Runtime.dll
+C:\Users\Asus\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\System.Composition.TypedParts.dll
+C:\Users\Asus\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Asus\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Asus\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Asus\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\Asus\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\System.Reflection.MetadataLoadContext.dll
+C:\Users\Asus\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\Asus\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Asus\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Asus\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\Asus\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\Asus\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Asus\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Asus\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Asus\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Asus\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Asus\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Asus\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Asus\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Asus\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Asus\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Asus\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Asus\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Asus\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Asus\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Asus\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Asus\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Asus\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Asus\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Asus\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Asus\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Asus\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Asus\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Asus\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Asus\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Asus\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Asus\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Asus\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Asus\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Asus\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Asus\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Asus\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Asus\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Asus\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Asus\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Asus\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Asus\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Asus\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Asus\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Asus\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Asus\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Asus\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Asus\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Asus\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Asus\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Asus\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Asus\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Asus\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Asus\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Asus\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Asus\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Asus\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Asus\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Asus\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Asus\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Asus\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Asus\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Asus\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Asus\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Asus\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Asus\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Asus\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Asus\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Asus\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Asus\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Asus\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Asus\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Asus\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Asus\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Asus\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Asus\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Asus\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Asus\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Asus\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Asus\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Asus\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Asus\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Asus\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Asus\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Asus\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Asus\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Asus\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Asus\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Asus\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Asus\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Asus\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Asus\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Asus\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Asus\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Asus\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Asus\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Asus\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Asus\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Asus\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Asus\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Asus\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Asus\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Asus\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Asus\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Asus\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Asus\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Asus\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Asus\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Asus\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Asus\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Asus\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Asus\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Asus\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Asus\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Asus\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Asus\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Asus\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Asus\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Asus\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Asus\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Asus\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Asus\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Asus\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Asus\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Asus\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Asus\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Asus\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Asus\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Asus\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Asus\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Asus\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Asus\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Asus\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Asus\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Asus\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Asus\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Asus\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Asus\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Asus\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Asus\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Asus\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Asus\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Asus\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Asus\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Asus\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Asus\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Asus\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Asus\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Asus\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Asus\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Asus\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Asus\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Asus\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Asus\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Asus\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Asus\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Asus\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Asus\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Asus\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Asus\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Asus\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Asus\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Asus\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Asus\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Asus\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Asus\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Asus\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Asus\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Asus\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Asus\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Asus\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Asus\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Asus\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Asus\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Asus\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\Asus\Desktop\ApiEquipment\ApiEquipment\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\Asus\Desktop\ApiEquipment\ApiEquipment\obj\Debug\net6.0\staticwebassets\msbuild.ApiEquipment.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Asus\Desktop\ApiEquipment\ApiEquipment\obj\Debug\net6.0\staticwebassets\msbuild.build.ApiEquipment.props
+C:\Users\Asus\Desktop\ApiEquipment\ApiEquipment\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ApiEquipment.props
+C:\Users\Asus\Desktop\ApiEquipment\ApiEquipment\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ApiEquipment.props
+C:\Users\Asus\Desktop\ApiEquipment\ApiEquipment\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Asus\Desktop\ApiEquipment\ApiEquipment\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Asus\Desktop\ApiEquipment\ApiEquipment\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Asus\Desktop\ApiEquipment\ApiEquipment\obj\Debug\net6.0\scopedcss\bundle\ApiEquipment.styles.css
+C:\Users\Asus\Desktop\ApiEquipment\ApiEquipment\obj\Debug\net6.0\ApiEquipment.csproj.CopyComplete
+C:\Users\Asus\Desktop\ApiEquipment\ApiEquipment\obj\Debug\net6.0\ApiEquipment.genruntimeconfig.cache
+C:\Users\Asus\Desktop\ApiEquipment\ApiEquipment\obj\Debug\net6.0\ref\ApiEquipment.dll
+C:\Users\Asus\OneDrive\Máy tính\ApiEquipment\ApiEquipment\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Asus\OneDrive\Máy tính\ApiEquipment\ApiEquipment\bin\Debug\net6.0\appsettings.json
+C:\Users\Asus\OneDrive\Máy tính\ApiEquipment\ApiEquipment\bin\Debug\net6.0\ApiEquipment.exe
+C:\Users\Asus\OneDrive\Máy tính\ApiEquipment\ApiEquipment\bin\Debug\net6.0\ApiEquipment.deps.json
+C:\Users\Asus\OneDrive\Máy tính\ApiEquipment\ApiEquipment\bin\Debug\net6.0\ApiEquipment.runtimeconfig.json
+C:\Users\Asus\OneDrive\Máy tính\ApiEquipment\ApiEquipment\bin\Debug\net6.0\ApiEquipment.dll
+C:\Users\Asus\OneDrive\Máy tính\ApiEquipment\ApiEquipment\bin\Debug\net6.0\ApiEquipment.pdb
+C:\Users\Asus\OneDrive\Máy tính\ApiEquipment\ApiEquipment\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\Asus\OneDrive\Máy tính\ApiEquipment\ApiEquipment\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\Asus\OneDrive\Máy tính\ApiEquipment\ApiEquipment\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\Asus\OneDrive\Máy tính\ApiEquipment\ApiEquipment\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\Asus\OneDrive\Máy tính\ApiEquipment\ApiEquipment\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Asus\OneDrive\Máy tính\ApiEquipment\ApiEquipment\bin\Debug\net6.0\MessagePack.dll
+C:\Users\Asus\OneDrive\Máy tính\ApiEquipment\ApiEquipment\bin\Debug\net6.0\MessagePack.Annotations.dll
+C:\Users\Asus\OneDrive\Máy tính\ApiEquipment\ApiEquipment\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Asus\OneDrive\Máy tính\ApiEquipment\ApiEquipment\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Asus\OneDrive\Máy tính\ApiEquipment\ApiEquipment\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Asus\OneDrive\Máy tính\ApiEquipment\ApiEquipment\bin\Debug\net6.0\Microsoft.Build.dll
+C:\Users\Asus\OneDrive\Máy tính\ApiEquipment\ApiEquipment\bin\Debug\net6.0\Microsoft.Build.Framework.dll
+C:\Users\Asus\OneDrive\Máy tính\ApiEquipment\ApiEquipment\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+C:\Users\Asus\OneDrive\Máy tính\ApiEquipment\ApiEquipment\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+C:\Users\Asus\OneDrive\Máy tính\ApiEquipment\ApiEquipment\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Asus\OneDrive\Máy tính\ApiEquipment\ApiEquipment\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+C:\Users\Asus\OneDrive\Máy tính\ApiEquipment\ApiEquipment\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Asus\OneDrive\Máy tính\ApiEquipment\ApiEquipment\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Asus\OneDrive\Máy tính\ApiEquipment\ApiEquipment\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+C:\Users\Asus\OneDrive\Máy tính\ApiEquipment\ApiEquipment\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Asus\OneDrive\Máy tính\ApiEquipment\ApiEquipment\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Asus\OneDrive\Máy tính\ApiEquipment\ApiEquipment\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Asus\OneDrive\Máy tính\ApiEquipment\ApiEquipment\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Features.dll
+C:\Users\Asus\OneDrive\Máy tính\ApiEquipment\ApiEquipment\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Workspaces.dll
+C:\Users\Asus\OneDrive\Máy tính\ApiEquipment\ApiEquipment\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Asus\OneDrive\Máy tính\ApiEquipment\ApiEquipment\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\Users\Asus\OneDrive\Máy tính\ApiEquipment\ApiEquipment\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Asus\OneDrive\Máy tính\ApiEquipment\ApiEquipment\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+C:\Users\Asus\OneDrive\Máy tính\ApiEquipment\ApiEquipment\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+C:\Users\Asus\OneDrive\Máy tính\ApiEquipment\ApiEquipment\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Asus\OneDrive\Máy tính\ApiEquipment\ApiEquipment\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Asus\OneDrive\Máy tính\ApiEquipment\ApiEquipment\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Asus\OneDrive\Máy tính\ApiEquipment\ApiEquipment\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Asus\OneDrive\Máy tính\ApiEquipment\ApiEquipment\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Asus\OneDrive\Máy tính\ApiEquipment\ApiEquipment\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Asus\OneDrive\Máy tính\ApiEquipment\ApiEquipment\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Asus\OneDrive\Máy tính\ApiEquipment\ApiEquipment\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Asus\OneDrive\Máy tính\ApiEquipment\ApiEquipment\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Asus\OneDrive\Máy tính\ApiEquipment\ApiEquipment\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Asus\OneDrive\Máy tính\ApiEquipment\ApiEquipment\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Asus\OneDrive\Máy tính\ApiEquipment\ApiEquipment\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\Asus\OneDrive\Máy tính\ApiEquipment\ApiEquipment\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Asus\OneDrive\Máy tính\ApiEquipment\ApiEquipment\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\Asus\OneDrive\Máy tính\ApiEquipment\ApiEquipment\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\Asus\OneDrive\Máy tính\ApiEquipment\ApiEquipment\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\Asus\OneDrive\Máy tính\ApiEquipment\ApiEquipment\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Asus\OneDrive\Máy tính\ApiEquipment\ApiEquipment\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Asus\OneDrive\Máy tính\ApiEquipment\ApiEquipment\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Asus\OneDrive\Máy tính\ApiEquipment\ApiEquipment\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Asus\OneDrive\Máy tính\ApiEquipment\ApiEquipment\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Asus\OneDrive\Máy tính\ApiEquipment\ApiEquipment\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Asus\OneDrive\Máy tính\ApiEquipment\ApiEquipment\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Asus\OneDrive\Máy tính\ApiEquipment\ApiEquipment\bin\Debug\net6.0\Microsoft.NET.StringTools.dll
+C:\Users\Asus\OneDrive\Máy tính\ApiEquipment\ApiEquipment\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Asus\OneDrive\Máy tính\ApiEquipment\ApiEquipment\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\Asus\OneDrive\Máy tính\ApiEquipment\ApiEquipment\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+C:\Users\Asus\OneDrive\Máy tính\ApiEquipment\ApiEquipment\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Asus\OneDrive\Máy tính\ApiEquipment\ApiEquipment\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Asus\OneDrive\Máy tính\ApiEquipment\ApiEquipment\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Asus\OneDrive\Máy tính\ApiEquipment\ApiEquipment\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Asus\OneDrive\Máy tính\ApiEquipment\ApiEquipment\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Asus\OneDrive\Máy tính\ApiEquipment\ApiEquipment\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Asus\OneDrive\Máy tính\ApiEquipment\ApiEquipment\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Asus\OneDrive\Máy tính\ApiEquipment\ApiEquipment\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Asus\OneDrive\Máy tính\ApiEquipment\ApiEquipment\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Users\Asus\OneDrive\Máy tính\ApiEquipment\ApiEquipment\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Asus\OneDrive\Máy tính\ApiEquipment\ApiEquipment\bin\Debug\net6.0\NuGet.Common.dll
+C:\Users\Asus\OneDrive\Máy tính\ApiEquipment\ApiEquipment\bin\Debug\net6.0\NuGet.Configuration.dll
+C:\Users\Asus\OneDrive\Máy tính\ApiEquipment\ApiEquipment\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+C:\Users\Asus\OneDrive\Máy tính\ApiEquipment\ApiEquipment\bin\Debug\net6.0\NuGet.Frameworks.dll
+C:\Users\Asus\OneDrive\Máy tính\ApiEquipment\ApiEquipment\bin\Debug\net6.0\NuGet.LibraryModel.dll
+C:\Users\Asus\OneDrive\Máy tính\ApiEquipment\ApiEquipment\bin\Debug\net6.0\NuGet.Packaging.dll
+C:\Users\Asus\OneDrive\Máy tính\ApiEquipment\ApiEquipment\bin\Debug\net6.0\NuGet.ProjectModel.dll
+C:\Users\Asus\OneDrive\Máy tính\ApiEquipment\ApiEquipment\bin\Debug\net6.0\NuGet.Protocol.dll
+C:\Users\Asus\OneDrive\Máy tính\ApiEquipment\ApiEquipment\bin\Debug\net6.0\NuGet.Versioning.dll
+C:\Users\Asus\OneDrive\Máy tính\ApiEquipment\ApiEquipment\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Asus\OneDrive\Máy tính\ApiEquipment\ApiEquipment\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Asus\OneDrive\Máy tính\ApiEquipment\ApiEquipment\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Asus\OneDrive\Máy tính\ApiEquipment\ApiEquipment\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\Asus\OneDrive\Máy tính\ApiEquipment\ApiEquipment\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+C:\Users\Asus\OneDrive\Máy tính\ApiEquipment\ApiEquipment\bin\Debug\net6.0\System.Composition.Convention.dll
+C:\Users\Asus\OneDrive\Máy tính\ApiEquipment\ApiEquipment\bin\Debug\net6.0\System.Composition.Hosting.dll
+C:\Users\Asus\OneDrive\Máy tính\ApiEquipment\ApiEquipment\bin\Debug\net6.0\System.Composition.Runtime.dll
+C:\Users\Asus\OneDrive\Máy tính\ApiEquipment\ApiEquipment\bin\Debug\net6.0\System.Composition.TypedParts.dll
+C:\Users\Asus\OneDrive\Máy tính\ApiEquipment\ApiEquipment\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Asus\OneDrive\Máy tính\ApiEquipment\ApiEquipment\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Asus\OneDrive\Máy tính\ApiEquipment\ApiEquipment\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Asus\OneDrive\Máy tính\ApiEquipment\ApiEquipment\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\Asus\OneDrive\Máy tính\ApiEquipment\ApiEquipment\bin\Debug\net6.0\System.Reflection.MetadataLoadContext.dll
+C:\Users\Asus\OneDrive\Máy tính\ApiEquipment\ApiEquipment\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\Asus\OneDrive\Máy tính\ApiEquipment\ApiEquipment\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Asus\OneDrive\Máy tính\ApiEquipment\ApiEquipment\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Asus\OneDrive\Máy tính\ApiEquipment\ApiEquipment\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\Asus\OneDrive\Máy tính\ApiEquipment\ApiEquipment\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\Asus\OneDrive\Máy tính\ApiEquipment\ApiEquipment\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Asus\OneDrive\Máy tính\ApiEquipment\ApiEquipment\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Asus\OneDrive\Máy tính\ApiEquipment\ApiEquipment\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Asus\OneDrive\Máy tính\ApiEquipment\ApiEquipment\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Asus\OneDrive\Máy tính\ApiEquipment\ApiEquipment\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Asus\OneDrive\Máy tính\ApiEquipment\ApiEquipment\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Asus\OneDrive\Máy tính\ApiEquipment\ApiEquipment\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Asus\OneDrive\Máy tính\ApiEquipment\ApiEquipment\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Asus\OneDrive\Máy tính\ApiEquipment\ApiEquipment\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Asus\OneDrive\Máy tính\ApiEquipment\ApiEquipment\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Asus\OneDrive\Máy tính\ApiEquipment\ApiEquipment\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Asus\OneDrive\Máy tính\ApiEquipment\ApiEquipment\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Asus\OneDrive\Máy tính\ApiEquipment\ApiEquipment\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Asus\OneDrive\Máy tính\ApiEquipment\ApiEquipment\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Asus\OneDrive\Máy tính\ApiEquipment\ApiEquipment\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Asus\OneDrive\Máy tính\ApiEquipment\ApiEquipment\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Asus\OneDrive\Máy tính\ApiEquipment\ApiEquipment\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Asus\OneDrive\Máy tính\ApiEquipment\ApiEquipment\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Asus\OneDrive\Máy tính\ApiEquipment\ApiEquipment\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Asus\OneDrive\Máy tính\ApiEquipment\ApiEquipment\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Asus\OneDrive\Máy tính\ApiEquipment\ApiEquipment\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Asus\OneDrive\Máy tính\ApiEquipment\ApiEquipment\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Asus\OneDrive\Máy tính\ApiEquipment\ApiEquipment\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Asus\OneDrive\Máy tính\ApiEquipment\ApiEquipment\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Asus\OneDrive\Máy tính\ApiEquipment\ApiEquipment\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Asus\OneDrive\Máy tính\ApiEquipment\ApiEquipment\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Asus\OneDrive\Máy tính\ApiEquipment\ApiEquipment\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Asus\OneDrive\Máy tính\ApiEquipment\ApiEquipment\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Asus\OneDrive\Máy tính\ApiEquipment\ApiEquipment\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Asus\OneDrive\Máy tính\ApiEquipment\ApiEquipment\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Asus\OneDrive\Máy tính\ApiEquipment\ApiEquipment\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Asus\OneDrive\Máy tính\ApiEquipment\ApiEquipment\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Asus\OneDrive\Máy tính\ApiEquipment\ApiEquipment\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Asus\OneDrive\Máy tính\ApiEquipment\ApiEquipment\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Asus\OneDrive\Máy tính\ApiEquipment\ApiEquipment\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Asus\OneDrive\Máy tính\ApiEquipment\ApiEquipment\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Asus\OneDrive\Máy tính\ApiEquipment\ApiEquipment\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Asus\OneDrive\Máy tính\ApiEquipment\ApiEquipment\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Asus\OneDrive\Máy tính\ApiEquipment\ApiEquipment\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Asus\OneDrive\Máy tính\ApiEquipment\ApiEquipment\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\Asus\OneDrive\Máy tính\ApiEquipment\ApiEquipment\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Asus\OneDrive\Máy tính\ApiEquipment\ApiEquipment\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Asus\OneDrive\Máy tính\ApiEquipment\ApiEquipment\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Asus\OneDrive\Máy tính\ApiEquipment\ApiEquipment\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Asus\OneDrive\Máy tính\ApiEquipment\ApiEquipment\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Asus\OneDrive\Máy tính\ApiEquipment\ApiEquipment\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Asus\OneDrive\Máy tính\ApiEquipment\ApiEquipment\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Asus\OneDrive\Máy tính\ApiEquipment\ApiEquipment\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Asus\OneDrive\Máy tính\ApiEquipment\ApiEquipment\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Asus\OneDrive\Máy tính\ApiEquipment\ApiEquipment\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Asus\OneDrive\Máy tính\ApiEquipment\ApiEquipment\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Asus\OneDrive\Máy tính\ApiEquipment\ApiEquipment\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Asus\OneDrive\Máy tính\ApiEquipment\ApiEquipment\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\Asus\OneDrive\Máy tính\ApiEquipment\ApiEquipment\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Asus\OneDrive\Máy tính\ApiEquipment\ApiEquipment\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Asus\OneDrive\Máy tính\ApiEquipment\ApiEquipment\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Asus\OneDrive\Máy tính\ApiEquipment\ApiEquipment\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Asus\OneDrive\Máy tính\ApiEquipment\ApiEquipment\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Asus\OneDrive\Máy tính\ApiEquipment\ApiEquipment\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Asus\OneDrive\Máy tính\ApiEquipment\ApiEquipment\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Asus\OneDrive\Máy tính\ApiEquipment\ApiEquipment\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Asus\OneDrive\Máy tính\ApiEquipment\ApiEquipment\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Asus\OneDrive\Máy tính\ApiEquipment\ApiEquipment\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Asus\OneDrive\Máy tính\ApiEquipment\ApiEquipment\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Asus\OneDrive\Máy tính\ApiEquipment\ApiEquipment\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Asus\OneDrive\Máy tính\ApiEquipment\ApiEquipment\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Asus\OneDrive\Máy tính\ApiEquipment\ApiEquipment\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Asus\OneDrive\Máy tính\ApiEquipment\ApiEquipment\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Asus\OneDrive\Máy tính\ApiEquipment\ApiEquipment\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Asus\OneDrive\Máy tính\ApiEquipment\ApiEquipment\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Asus\OneDrive\Máy tính\ApiEquipment\ApiEquipment\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Asus\OneDrive\Máy tính\ApiEquipment\ApiEquipment\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Asus\OneDrive\Máy tính\ApiEquipment\ApiEquipment\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Asus\OneDrive\Máy tính\ApiEquipment\ApiEquipment\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Asus\OneDrive\Máy tính\ApiEquipment\ApiEquipment\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Asus\OneDrive\Máy tính\ApiEquipment\ApiEquipment\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Asus\OneDrive\Máy tính\ApiEquipment\ApiEquipment\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Asus\OneDrive\Máy tính\ApiEquipment\ApiEquipment\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Asus\OneDrive\Máy tính\ApiEquipment\ApiEquipment\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\Asus\OneDrive\Máy tính\ApiEquipment\ApiEquipment\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Asus\OneDrive\Máy tính\ApiEquipment\ApiEquipment\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Asus\OneDrive\Máy tính\ApiEquipment\ApiEquipment\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Asus\OneDrive\Máy tính\ApiEquipment\ApiEquipment\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Asus\OneDrive\Máy tính\ApiEquipment\ApiEquipment\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Asus\OneDrive\Máy tính\ApiEquipment\ApiEquipment\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Asus\OneDrive\Máy tính\ApiEquipment\ApiEquipment\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Asus\OneDrive\Máy tính\ApiEquipment\ApiEquipment\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Asus\OneDrive\Máy tính\ApiEquipment\ApiEquipment\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Asus\OneDrive\Máy tính\ApiEquipment\ApiEquipment\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Asus\OneDrive\Máy tính\ApiEquipment\ApiEquipment\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Asus\OneDrive\Máy tính\ApiEquipment\ApiEquipment\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Asus\OneDrive\Máy tính\ApiEquipment\ApiEquipment\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\Asus\OneDrive\Máy tính\ApiEquipment\ApiEquipment\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Asus\OneDrive\Máy tính\ApiEquipment\ApiEquipment\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Asus\OneDrive\Máy tính\ApiEquipment\ApiEquipment\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Asus\OneDrive\Máy tính\ApiEquipment\ApiEquipment\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Asus\OneDrive\Máy tính\ApiEquipment\ApiEquipment\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Asus\OneDrive\Máy tính\ApiEquipment\ApiEquipment\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Asus\OneDrive\Máy tính\ApiEquipment\ApiEquipment\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Asus\OneDrive\Máy tính\ApiEquipment\ApiEquipment\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Asus\OneDrive\Máy tính\ApiEquipment\ApiEquipment\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Asus\OneDrive\Máy tính\ApiEquipment\ApiEquipment\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Asus\OneDrive\Máy tính\ApiEquipment\ApiEquipment\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Asus\OneDrive\Máy tính\ApiEquipment\ApiEquipment\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Asus\OneDrive\Máy tính\ApiEquipment\ApiEquipment\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\Asus\OneDrive\Máy tính\ApiEquipment\ApiEquipment\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Asus\OneDrive\Máy tính\ApiEquipment\ApiEquipment\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Asus\OneDrive\Máy tính\ApiEquipment\ApiEquipment\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Asus\OneDrive\Máy tính\ApiEquipment\ApiEquipment\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Asus\OneDrive\Máy tính\ApiEquipment\ApiEquipment\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Asus\OneDrive\Máy tính\ApiEquipment\ApiEquipment\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Asus\OneDrive\Máy tính\ApiEquipment\ApiEquipment\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Asus\OneDrive\Máy tính\ApiEquipment\ApiEquipment\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Asus\OneDrive\Máy tính\ApiEquipment\ApiEquipment\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Asus\OneDrive\Máy tính\ApiEquipment\ApiEquipment\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Asus\OneDrive\Máy tính\ApiEquipment\ApiEquipment\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Asus\OneDrive\Máy tính\ApiEquipment\ApiEquipment\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Asus\OneDrive\Máy tính\ApiEquipment\ApiEquipment\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\Asus\OneDrive\Máy tính\ApiEquipment\ApiEquipment\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Asus\OneDrive\Máy tính\ApiEquipment\ApiEquipment\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Asus\OneDrive\Máy tính\ApiEquipment\ApiEquipment\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Asus\OneDrive\Máy tính\ApiEquipment\ApiEquipment\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Asus\OneDrive\Máy tính\ApiEquipment\ApiEquipment\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Asus\OneDrive\Máy tính\ApiEquipment\ApiEquipment\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Asus\OneDrive\Máy tính\ApiEquipment\ApiEquipment\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Asus\OneDrive\Máy tính\ApiEquipment\ApiEquipment\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Asus\OneDrive\Máy tính\ApiEquipment\ApiEquipment\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Asus\OneDrive\Máy tính\ApiEquipment\ApiEquipment\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Asus\OneDrive\Máy tính\ApiEquipment\ApiEquipment\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Asus\OneDrive\Máy tính\ApiEquipment\ApiEquipment\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Asus\OneDrive\Máy tính\ApiEquipment\ApiEquipment\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\Asus\OneDrive\Máy tính\ApiEquipment\ApiEquipment\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Asus\OneDrive\Máy tính\ApiEquipment\ApiEquipment\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Asus\OneDrive\Máy tính\ApiEquipment\ApiEquipment\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Asus\OneDrive\Máy tính\ApiEquipment\ApiEquipment\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Asus\OneDrive\Máy tính\ApiEquipment\ApiEquipment\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Asus\OneDrive\Máy tính\ApiEquipment\ApiEquipment\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Asus\OneDrive\Máy tính\ApiEquipment\ApiEquipment\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Asus\OneDrive\Máy tính\ApiEquipment\ApiEquipment\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Asus\OneDrive\Máy tính\ApiEquipment\ApiEquipment\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Asus\OneDrive\Máy tính\ApiEquipment\ApiEquipment\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Asus\OneDrive\Máy tính\ApiEquipment\ApiEquipment\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Asus\OneDrive\Máy tính\ApiEquipment\ApiEquipment\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Asus\OneDrive\Máy tính\ApiEquipment\ApiEquipment\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Asus\OneDrive\Máy tính\ApiEquipment\ApiEquipment\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Asus\OneDrive\Máy tính\ApiEquipment\ApiEquipment\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Asus\OneDrive\Máy tính\ApiEquipment\ApiEquipment\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Asus\OneDrive\Máy tính\ApiEquipment\ApiEquipment\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Asus\OneDrive\Máy tính\ApiEquipment\ApiEquipment\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Asus\OneDrive\Máy tính\ApiEquipment\ApiEquipment\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Asus\OneDrive\Máy tính\ApiEquipment\ApiEquipment\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Asus\OneDrive\Máy tính\ApiEquipment\ApiEquipment\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Asus\OneDrive\Máy tính\ApiEquipment\ApiEquipment\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Asus\OneDrive\Máy tính\ApiEquipment\ApiEquipment\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Asus\OneDrive\Máy tính\ApiEquipment\ApiEquipment\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Asus\OneDrive\Máy tính\ApiEquipment\ApiEquipment\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Asus\OneDrive\Máy tính\ApiEquipment\ApiEquipment\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\Asus\OneDrive\Máy tính\ApiEquipment\ApiEquipment\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Asus\OneDrive\Máy tính\ApiEquipment\ApiEquipment\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Asus\OneDrive\Máy tính\ApiEquipment\ApiEquipment\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Asus\OneDrive\Máy tính\ApiEquipment\ApiEquipment\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Asus\OneDrive\Máy tính\ApiEquipment\ApiEquipment\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Asus\OneDrive\Máy tính\ApiEquipment\ApiEquipment\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Asus\OneDrive\Máy tính\ApiEquipment\ApiEquipment\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Asus\OneDrive\Máy tính\ApiEquipment\ApiEquipment\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Asus\OneDrive\Máy tính\ApiEquipment\ApiEquipment\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\Asus\OneDrive\Máy tính\ApiEquipment\ApiEquipment\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Asus\OneDrive\Máy tính\ApiEquipment\ApiEquipment\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Asus\OneDrive\Máy tính\ApiEquipment\ApiEquipment\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\Asus\OneDrive\Máy tính\ApiEquipment\ApiEquipment\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\Asus\OneDrive\Máy tính\ApiEquipment\ApiEquipment\obj\Debug\net6.0\ApiEquipment.csproj.AssemblyReference.cache
+C:\Users\Asus\OneDrive\Máy tính\ApiEquipment\ApiEquipment\obj\Debug\net6.0\ApiEquipment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\OneDrive\Máy tính\ApiEquipment\ApiEquipment\obj\Debug\net6.0\ApiEquipment.AssemblyInfoInputs.cache
+C:\Users\Asus\OneDrive\Máy tính\ApiEquipment\ApiEquipment\obj\Debug\net6.0\ApiEquipment.AssemblyInfo.cs
+C:\Users\Asus\OneDrive\Máy tính\ApiEquipment\ApiEquipment\obj\Debug\net6.0\ApiEquipment.csproj.CoreCompileInputs.cache
+C:\Users\Asus\OneDrive\Máy tính\ApiEquipment\ApiEquipment\obj\Debug\net6.0\ApiEquipment.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Asus\OneDrive\Máy tính\ApiEquipment\ApiEquipment\obj\Debug\net6.0\ApiEquipment.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Asus\OneDrive\Máy tính\ApiEquipment\ApiEquipment\obj\Debug\net6.0\staticwebassets\msbuild.ApiEquipment.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Asus\OneDrive\Máy tính\ApiEquipment\ApiEquipment\obj\Debug\net6.0\staticwebassets\msbuild.build.ApiEquipment.props
+C:\Users\Asus\OneDrive\Máy tính\ApiEquipment\ApiEquipment\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ApiEquipment.props
+C:\Users\Asus\OneDrive\Máy tính\ApiEquipment\ApiEquipment\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ApiEquipment.props
+C:\Users\Asus\OneDrive\Máy tính\ApiEquipment\ApiEquipment\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Asus\OneDrive\Máy tính\ApiEquipment\ApiEquipment\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Asus\OneDrive\Máy tính\ApiEquipment\ApiEquipment\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Asus\OneDrive\Máy tính\ApiEquipment\ApiEquipment\obj\Debug\net6.0\scopedcss\bundle\ApiEquipment.styles.css
+C:\Users\Asus\OneDrive\Máy tính\ApiEquipment\ApiEquipment\obj\Debug\net6.0\ApiEquipment.csproj.CopyComplete
+C:\Users\Asus\OneDrive\Máy tính\ApiEquipment\ApiEquipment\obj\Debug\net6.0\ApiEquipment.dll
+C:\Users\Asus\OneDrive\Máy tính\ApiEquipment\ApiEquipment\obj\Debug\net6.0\refint\ApiEquipment.dll
+C:\Users\Asus\OneDrive\Máy tính\ApiEquipment\ApiEquipment\obj\Debug\net6.0\ApiEquipment.pdb
+C:\Users\Asus\OneDrive\Máy tính\ApiEquipment\ApiEquipment\obj\Debug\net6.0\ApiEquipment.genruntimeconfig.cache
+C:\Users\Asus\OneDrive\Máy tính\ApiEquipment\ApiEquipment\obj\Debug\net6.0\ref\ApiEquipment.dll
+C:\Users\hcnam\Desktop\ApiEquipmentNoTest\ApiEquipment\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\hcnam\Desktop\ApiEquipmentNoTest\ApiEquipment\bin\Debug\net6.0\appsettings.json
+C:\Users\hcnam\Desktop\ApiEquipmentNoTest\ApiEquipment\bin\Debug\net6.0\ApiEquipment.exe
+C:\Users\hcnam\Desktop\ApiEquipmentNoTest\ApiEquipment\bin\Debug\net6.0\ApiEquipment.deps.json
+C:\Users\hcnam\Desktop\ApiEquipmentNoTest\ApiEquipment\bin\Debug\net6.0\ApiEquipment.runtimeconfig.json
+C:\Users\hcnam\Desktop\ApiEquipmentNoTest\ApiEquipment\bin\Debug\net6.0\ApiEquipment.dll
+C:\Users\hcnam\Desktop\ApiEquipmentNoTest\ApiEquipment\bin\Debug\net6.0\ApiEquipment.pdb
+C:\Users\hcnam\Desktop\ApiEquipmentNoTest\ApiEquipment\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\hcnam\Desktop\ApiEquipmentNoTest\ApiEquipment\bin\Debug\net6.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\hcnam\Desktop\ApiEquipmentNoTest\ApiEquipment\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\hcnam\Desktop\ApiEquipmentNoTest\ApiEquipment\bin\Debug\net6.0\Azure.Identity.dll
+C:\Users\hcnam\Desktop\ApiEquipmentNoTest\ApiEquipment\bin\Debug\net6.0\Humanizer.dll
+C:\Users\hcnam\Desktop\ApiEquipmentNoTest\ApiEquipment\bin\Debug\net6.0\MessagePack.dll
+C:\Users\hcnam\Desktop\ApiEquipmentNoTest\ApiEquipment\bin\Debug\net6.0\MessagePack.Annotations.dll
+C:\Users\hcnam\Desktop\ApiEquipmentNoTest\ApiEquipment\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\hcnam\Desktop\ApiEquipmentNoTest\ApiEquipment\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\hcnam\Desktop\ApiEquipmentNoTest\ApiEquipment\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\hcnam\Desktop\ApiEquipmentNoTest\ApiEquipment\bin\Debug\net6.0\Microsoft.Build.dll
+C:\Users\hcnam\Desktop\ApiEquipmentNoTest\ApiEquipment\bin\Debug\net6.0\Microsoft.Build.Framework.dll
+C:\Users\hcnam\Desktop\ApiEquipmentNoTest\ApiEquipment\bin\Debug\net6.0\Microsoft.CodeAnalysis.AnalyzerUtilities.dll
+C:\Users\hcnam\Desktop\ApiEquipmentNoTest\ApiEquipment\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+C:\Users\hcnam\Desktop\ApiEquipmentNoTest\ApiEquipment\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\hcnam\Desktop\ApiEquipmentNoTest\ApiEquipment\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Features.dll
+C:\Users\hcnam\Desktop\ApiEquipmentNoTest\ApiEquipment\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\hcnam\Desktop\ApiEquipmentNoTest\ApiEquipment\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\hcnam\Desktop\ApiEquipmentNoTest\ApiEquipment\bin\Debug\net6.0\Microsoft.CodeAnalysis.Features.dll
+C:\Users\hcnam\Desktop\ApiEquipmentNoTest\ApiEquipment\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\hcnam\Desktop\ApiEquipmentNoTest\ApiEquipment\bin\Debug\net6.0\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\hcnam\Desktop\ApiEquipmentNoTest\ApiEquipment\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\hcnam\Desktop\ApiEquipmentNoTest\ApiEquipment\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Features.dll
+C:\Users\hcnam\Desktop\ApiEquipmentNoTest\ApiEquipment\bin\Debug\net6.0\Microsoft.CodeAnalysis.VisualBasic.Workspaces.dll
+C:\Users\hcnam\Desktop\ApiEquipmentNoTest\ApiEquipment\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\hcnam\Desktop\ApiEquipmentNoTest\ApiEquipment\bin\Debug\net6.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\Users\hcnam\Desktop\ApiEquipmentNoTest\ApiEquipment\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\hcnam\Desktop\ApiEquipmentNoTest\ApiEquipment\bin\Debug\net6.0\Microsoft.DiaSymReader.dll
+C:\Users\hcnam\Desktop\ApiEquipmentNoTest\ApiEquipment\bin\Debug\net6.0\Microsoft.DotNet.Scaffolding.Shared.dll
+C:\Users\hcnam\Desktop\ApiEquipmentNoTest\ApiEquipment\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\hcnam\Desktop\ApiEquipmentNoTest\ApiEquipment\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\hcnam\Desktop\ApiEquipmentNoTest\ApiEquipment\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\hcnam\Desktop\ApiEquipmentNoTest\ApiEquipment\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\hcnam\Desktop\ApiEquipmentNoTest\ApiEquipment\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\hcnam\Desktop\ApiEquipmentNoTest\ApiEquipment\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\hcnam\Desktop\ApiEquipmentNoTest\ApiEquipment\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\hcnam\Desktop\ApiEquipmentNoTest\ApiEquipment\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\hcnam\Desktop\ApiEquipmentNoTest\ApiEquipment\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\hcnam\Desktop\ApiEquipmentNoTest\ApiEquipment\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\hcnam\Desktop\ApiEquipmentNoTest\ApiEquipment\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\hcnam\Desktop\ApiEquipmentNoTest\ApiEquipment\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+C:\Users\hcnam\Desktop\ApiEquipmentNoTest\ApiEquipment\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\hcnam\Desktop\ApiEquipmentNoTest\ApiEquipment\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+C:\Users\hcnam\Desktop\ApiEquipmentNoTest\ApiEquipment\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+C:\Users\hcnam\Desktop\ApiEquipmentNoTest\ApiEquipment\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\hcnam\Desktop\ApiEquipmentNoTest\ApiEquipment\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\hcnam\Desktop\ApiEquipmentNoTest\ApiEquipment\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\hcnam\Desktop\ApiEquipmentNoTest\ApiEquipment\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\hcnam\Desktop\ApiEquipmentNoTest\ApiEquipment\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\hcnam\Desktop\ApiEquipmentNoTest\ApiEquipment\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\hcnam\Desktop\ApiEquipmentNoTest\ApiEquipment\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\hcnam\Desktop\ApiEquipmentNoTest\ApiEquipment\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\hcnam\Desktop\ApiEquipmentNoTest\ApiEquipment\bin\Debug\net6.0\Microsoft.NET.StringTools.dll
+C:\Users\hcnam\Desktop\ApiEquipmentNoTest\ApiEquipment\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\hcnam\Desktop\ApiEquipmentNoTest\ApiEquipment\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+C:\Users\hcnam\Desktop\ApiEquipmentNoTest\ApiEquipment\bin\Debug\net6.0\Microsoft.VisualStudio.Debugger.Contracts.dll
+C:\Users\hcnam\Desktop\ApiEquipmentNoTest\ApiEquipment\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\hcnam\Desktop\ApiEquipmentNoTest\ApiEquipment\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\hcnam\Desktop\ApiEquipmentNoTest\ApiEquipment\bin\Debug\net6.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\hcnam\Desktop\ApiEquipmentNoTest\ApiEquipment\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\hcnam\Desktop\ApiEquipmentNoTest\ApiEquipment\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\hcnam\Desktop\ApiEquipmentNoTest\ApiEquipment\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\hcnam\Desktop\ApiEquipmentNoTest\ApiEquipment\bin\Debug\net6.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\hcnam\Desktop\ApiEquipmentNoTest\ApiEquipment\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\hcnam\Desktop\ApiEquipmentNoTest\ApiEquipment\bin\Debug\net6.0\Mono.TextTemplating.dll
+C:\Users\hcnam\Desktop\ApiEquipmentNoTest\ApiEquipment\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\hcnam\Desktop\ApiEquipmentNoTest\ApiEquipment\bin\Debug\net6.0\NuGet.Common.dll
+C:\Users\hcnam\Desktop\ApiEquipmentNoTest\ApiEquipment\bin\Debug\net6.0\NuGet.Configuration.dll
+C:\Users\hcnam\Desktop\ApiEquipmentNoTest\ApiEquipment\bin\Debug\net6.0\NuGet.DependencyResolver.Core.dll
+C:\Users\hcnam\Desktop\ApiEquipmentNoTest\ApiEquipment\bin\Debug\net6.0\NuGet.Frameworks.dll
+C:\Users\hcnam\Desktop\ApiEquipmentNoTest\ApiEquipment\bin\Debug\net6.0\NuGet.LibraryModel.dll
+C:\Users\hcnam\Desktop\ApiEquipmentNoTest\ApiEquipment\bin\Debug\net6.0\NuGet.Packaging.dll
+C:\Users\hcnam\Desktop\ApiEquipmentNoTest\ApiEquipment\bin\Debug\net6.0\NuGet.ProjectModel.dll
+C:\Users\hcnam\Desktop\ApiEquipmentNoTest\ApiEquipment\bin\Debug\net6.0\NuGet.Protocol.dll
+C:\Users\hcnam\Desktop\ApiEquipmentNoTest\ApiEquipment\bin\Debug\net6.0\NuGet.Versioning.dll
+C:\Users\hcnam\Desktop\ApiEquipmentNoTest\ApiEquipment\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\hcnam\Desktop\ApiEquipmentNoTest\ApiEquipment\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\hcnam\Desktop\ApiEquipmentNoTest\ApiEquipment\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\hcnam\Desktop\ApiEquipmentNoTest\ApiEquipment\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\hcnam\Desktop\ApiEquipmentNoTest\ApiEquipment\bin\Debug\net6.0\System.Composition.AttributedModel.dll
+C:\Users\hcnam\Desktop\ApiEquipmentNoTest\ApiEquipment\bin\Debug\net6.0\System.Composition.Convention.dll
+C:\Users\hcnam\Desktop\ApiEquipmentNoTest\ApiEquipment\bin\Debug\net6.0\System.Composition.Hosting.dll
+C:\Users\hcnam\Desktop\ApiEquipmentNoTest\ApiEquipment\bin\Debug\net6.0\System.Composition.Runtime.dll
+C:\Users\hcnam\Desktop\ApiEquipmentNoTest\ApiEquipment\bin\Debug\net6.0\System.Composition.TypedParts.dll
+C:\Users\hcnam\Desktop\ApiEquipmentNoTest\ApiEquipment\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\hcnam\Desktop\ApiEquipmentNoTest\ApiEquipment\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\hcnam\Desktop\ApiEquipmentNoTest\ApiEquipment\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\hcnam\Desktop\ApiEquipmentNoTest\ApiEquipment\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\hcnam\Desktop\ApiEquipmentNoTest\ApiEquipment\bin\Debug\net6.0\System.Reflection.MetadataLoadContext.dll
+C:\Users\hcnam\Desktop\ApiEquipmentNoTest\ApiEquipment\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\hcnam\Desktop\ApiEquipmentNoTest\ApiEquipment\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\hcnam\Desktop\ApiEquipmentNoTest\ApiEquipment\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\hcnam\Desktop\ApiEquipmentNoTest\ApiEquipment\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+C:\Users\hcnam\Desktop\ApiEquipmentNoTest\ApiEquipment\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\hcnam\Desktop\ApiEquipmentNoTest\ApiEquipment\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\hcnam\Desktop\ApiEquipmentNoTest\ApiEquipment\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hcnam\Desktop\ApiEquipmentNoTest\ApiEquipment\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hcnam\Desktop\ApiEquipmentNoTest\ApiEquipment\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hcnam\Desktop\ApiEquipmentNoTest\ApiEquipment\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hcnam\Desktop\ApiEquipmentNoTest\ApiEquipment\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hcnam\Desktop\ApiEquipmentNoTest\ApiEquipment\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hcnam\Desktop\ApiEquipmentNoTest\ApiEquipment\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hcnam\Desktop\ApiEquipmentNoTest\ApiEquipment\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hcnam\Desktop\ApiEquipmentNoTest\ApiEquipment\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hcnam\Desktop\ApiEquipmentNoTest\ApiEquipment\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hcnam\Desktop\ApiEquipmentNoTest\ApiEquipment\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hcnam\Desktop\ApiEquipmentNoTest\ApiEquipment\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hcnam\Desktop\ApiEquipmentNoTest\ApiEquipment\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\hcnam\Desktop\ApiEquipmentNoTest\ApiEquipment\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hcnam\Desktop\ApiEquipmentNoTest\ApiEquipment\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hcnam\Desktop\ApiEquipmentNoTest\ApiEquipment\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hcnam\Desktop\ApiEquipmentNoTest\ApiEquipment\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hcnam\Desktop\ApiEquipmentNoTest\ApiEquipment\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hcnam\Desktop\ApiEquipmentNoTest\ApiEquipment\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hcnam\Desktop\ApiEquipmentNoTest\ApiEquipment\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hcnam\Desktop\ApiEquipmentNoTest\ApiEquipment\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hcnam\Desktop\ApiEquipmentNoTest\ApiEquipment\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hcnam\Desktop\ApiEquipmentNoTest\ApiEquipment\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hcnam\Desktop\ApiEquipmentNoTest\ApiEquipment\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hcnam\Desktop\ApiEquipmentNoTest\ApiEquipment\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hcnam\Desktop\ApiEquipmentNoTest\ApiEquipment\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\hcnam\Desktop\ApiEquipmentNoTest\ApiEquipment\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\hcnam\Desktop\ApiEquipmentNoTest\ApiEquipment\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\hcnam\Desktop\ApiEquipmentNoTest\ApiEquipment\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\hcnam\Desktop\ApiEquipmentNoTest\ApiEquipment\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\hcnam\Desktop\ApiEquipmentNoTest\ApiEquipment\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\hcnam\Desktop\ApiEquipmentNoTest\ApiEquipment\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\hcnam\Desktop\ApiEquipmentNoTest\ApiEquipment\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\hcnam\Desktop\ApiEquipmentNoTest\ApiEquipment\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\hcnam\Desktop\ApiEquipmentNoTest\ApiEquipment\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\hcnam\Desktop\ApiEquipmentNoTest\ApiEquipment\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\hcnam\Desktop\ApiEquipmentNoTest\ApiEquipment\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\hcnam\Desktop\ApiEquipmentNoTest\ApiEquipment\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\hcnam\Desktop\ApiEquipmentNoTest\ApiEquipment\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Features.resources.dll
+C:\Users\hcnam\Desktop\ApiEquipmentNoTest\ApiEquipment\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\hcnam\Desktop\ApiEquipmentNoTest\ApiEquipment\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\hcnam\Desktop\ApiEquipmentNoTest\ApiEquipment\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\hcnam\Desktop\ApiEquipmentNoTest\ApiEquipment\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\hcnam\Desktop\ApiEquipmentNoTest\ApiEquipment\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\hcnam\Desktop\ApiEquipmentNoTest\ApiEquipment\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\hcnam\Desktop\ApiEquipmentNoTest\ApiEquipment\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\hcnam\Desktop\ApiEquipmentNoTest\ApiEquipment\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\hcnam\Desktop\ApiEquipmentNoTest\ApiEquipment\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\hcnam\Desktop\ApiEquipmentNoTest\ApiEquipment\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\hcnam\Desktop\ApiEquipmentNoTest\ApiEquipment\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\hcnam\Desktop\ApiEquipmentNoTest\ApiEquipment\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\hcnam\Desktop\ApiEquipmentNoTest\ApiEquipment\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Scripting.resources.dll
+C:\Users\hcnam\Desktop\ApiEquipmentNoTest\ApiEquipment\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hcnam\Desktop\ApiEquipmentNoTest\ApiEquipment\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hcnam\Desktop\ApiEquipmentNoTest\ApiEquipment\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hcnam\Desktop\ApiEquipmentNoTest\ApiEquipment\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hcnam\Desktop\ApiEquipmentNoTest\ApiEquipment\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hcnam\Desktop\ApiEquipmentNoTest\ApiEquipment\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hcnam\Desktop\ApiEquipmentNoTest\ApiEquipment\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hcnam\Desktop\ApiEquipmentNoTest\ApiEquipment\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hcnam\Desktop\ApiEquipmentNoTest\ApiEquipment\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hcnam\Desktop\ApiEquipmentNoTest\ApiEquipment\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hcnam\Desktop\ApiEquipmentNoTest\ApiEquipment\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hcnam\Desktop\ApiEquipmentNoTest\ApiEquipment\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hcnam\Desktop\ApiEquipmentNoTest\ApiEquipment\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\hcnam\Desktop\ApiEquipmentNoTest\ApiEquipment\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\hcnam\Desktop\ApiEquipmentNoTest\ApiEquipment\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\hcnam\Desktop\ApiEquipmentNoTest\ApiEquipment\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\hcnam\Desktop\ApiEquipmentNoTest\ApiEquipment\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\hcnam\Desktop\ApiEquipmentNoTest\ApiEquipment\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\hcnam\Desktop\ApiEquipmentNoTest\ApiEquipment\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\hcnam\Desktop\ApiEquipmentNoTest\ApiEquipment\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\hcnam\Desktop\ApiEquipmentNoTest\ApiEquipment\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\hcnam\Desktop\ApiEquipmentNoTest\ApiEquipment\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\hcnam\Desktop\ApiEquipmentNoTest\ApiEquipment\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\hcnam\Desktop\ApiEquipmentNoTest\ApiEquipment\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\hcnam\Desktop\ApiEquipmentNoTest\ApiEquipment\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\hcnam\Desktop\ApiEquipmentNoTest\ApiEquipment\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Features.resources.dll
+C:\Users\hcnam\Desktop\ApiEquipmentNoTest\ApiEquipment\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\hcnam\Desktop\ApiEquipmentNoTest\ApiEquipment\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\hcnam\Desktop\ApiEquipmentNoTest\ApiEquipment\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\hcnam\Desktop\ApiEquipmentNoTest\ApiEquipment\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\hcnam\Desktop\ApiEquipmentNoTest\ApiEquipment\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\hcnam\Desktop\ApiEquipmentNoTest\ApiEquipment\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\hcnam\Desktop\ApiEquipmentNoTest\ApiEquipment\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\hcnam\Desktop\ApiEquipmentNoTest\ApiEquipment\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\hcnam\Desktop\ApiEquipmentNoTest\ApiEquipment\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\hcnam\Desktop\ApiEquipmentNoTest\ApiEquipment\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\hcnam\Desktop\ApiEquipmentNoTest\ApiEquipment\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\hcnam\Desktop\ApiEquipmentNoTest\ApiEquipment\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\hcnam\Desktop\ApiEquipmentNoTest\ApiEquipment\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Scripting.resources.dll
+C:\Users\hcnam\Desktop\ApiEquipmentNoTest\ApiEquipment\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\hcnam\Desktop\ApiEquipmentNoTest\ApiEquipment\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\hcnam\Desktop\ApiEquipmentNoTest\ApiEquipment\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\hcnam\Desktop\ApiEquipmentNoTest\ApiEquipment\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\hcnam\Desktop\ApiEquipmentNoTest\ApiEquipment\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\hcnam\Desktop\ApiEquipmentNoTest\ApiEquipment\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\hcnam\Desktop\ApiEquipmentNoTest\ApiEquipment\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\hcnam\Desktop\ApiEquipmentNoTest\ApiEquipment\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\hcnam\Desktop\ApiEquipmentNoTest\ApiEquipment\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\hcnam\Desktop\ApiEquipmentNoTest\ApiEquipment\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\hcnam\Desktop\ApiEquipmentNoTest\ApiEquipment\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\hcnam\Desktop\ApiEquipmentNoTest\ApiEquipment\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\hcnam\Desktop\ApiEquipmentNoTest\ApiEquipment\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.resources.dll
+C:\Users\hcnam\Desktop\ApiEquipmentNoTest\ApiEquipment\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\hcnam\Desktop\ApiEquipmentNoTest\ApiEquipment\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\hcnam\Desktop\ApiEquipmentNoTest\ApiEquipment\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\hcnam\Desktop\ApiEquipmentNoTest\ApiEquipment\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\hcnam\Desktop\ApiEquipmentNoTest\ApiEquipment\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\hcnam\Desktop\ApiEquipmentNoTest\ApiEquipment\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\hcnam\Desktop\ApiEquipmentNoTest\ApiEquipment\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\hcnam\Desktop\ApiEquipmentNoTest\ApiEquipment\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\hcnam\Desktop\ApiEquipmentNoTest\ApiEquipment\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\hcnam\Desktop\ApiEquipmentNoTest\ApiEquipment\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\hcnam\Desktop\ApiEquipmentNoTest\ApiEquipment\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\hcnam\Desktop\ApiEquipmentNoTest\ApiEquipment\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\hcnam\Desktop\ApiEquipmentNoTest\ApiEquipment\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Features.resources.dll
+C:\Users\hcnam\Desktop\ApiEquipmentNoTest\ApiEquipment\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\hcnam\Desktop\ApiEquipmentNoTest\ApiEquipment\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\hcnam\Desktop\ApiEquipmentNoTest\ApiEquipment\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\hcnam\Desktop\ApiEquipmentNoTest\ApiEquipment\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\hcnam\Desktop\ApiEquipmentNoTest\ApiEquipment\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\hcnam\Desktop\ApiEquipmentNoTest\ApiEquipment\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\hcnam\Desktop\ApiEquipmentNoTest\ApiEquipment\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\hcnam\Desktop\ApiEquipmentNoTest\ApiEquipment\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\hcnam\Desktop\ApiEquipmentNoTest\ApiEquipment\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\hcnam\Desktop\ApiEquipmentNoTest\ApiEquipment\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\hcnam\Desktop\ApiEquipmentNoTest\ApiEquipment\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\hcnam\Desktop\ApiEquipmentNoTest\ApiEquipment\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\hcnam\Desktop\ApiEquipmentNoTest\ApiEquipment\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.VisualBasic.Workspaces.resources.dll
+C:\Users\hcnam\Desktop\ApiEquipmentNoTest\ApiEquipment\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hcnam\Desktop\ApiEquipmentNoTest\ApiEquipment\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hcnam\Desktop\ApiEquipmentNoTest\ApiEquipment\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hcnam\Desktop\ApiEquipmentNoTest\ApiEquipment\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hcnam\Desktop\ApiEquipmentNoTest\ApiEquipment\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hcnam\Desktop\ApiEquipmentNoTest\ApiEquipment\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hcnam\Desktop\ApiEquipmentNoTest\ApiEquipment\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hcnam\Desktop\ApiEquipmentNoTest\ApiEquipment\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hcnam\Desktop\ApiEquipmentNoTest\ApiEquipment\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hcnam\Desktop\ApiEquipmentNoTest\ApiEquipment\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hcnam\Desktop\ApiEquipmentNoTest\ApiEquipment\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hcnam\Desktop\ApiEquipmentNoTest\ApiEquipment\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hcnam\Desktop\ApiEquipmentNoTest\ApiEquipment\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\hcnam\Desktop\ApiEquipmentNoTest\ApiEquipment\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\hcnam\Desktop\ApiEquipmentNoTest\ApiEquipment\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\hcnam\Desktop\ApiEquipmentNoTest\ApiEquipment\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\hcnam\Desktop\ApiEquipmentNoTest\ApiEquipment\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\hcnam\Desktop\ApiEquipmentNoTest\ApiEquipment\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\hcnam\Desktop\ApiEquipmentNoTest\ApiEquipment\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\hcnam\Desktop\ApiEquipmentNoTest\ApiEquipment\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\hcnam\Desktop\ApiEquipmentNoTest\ApiEquipment\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\hcnam\Desktop\ApiEquipmentNoTest\ApiEquipment\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\hcnam\Desktop\ApiEquipmentNoTest\ApiEquipment\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\hcnam\Desktop\ApiEquipmentNoTest\ApiEquipment\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\hcnam\Desktop\ApiEquipmentNoTest\ApiEquipment\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\hcnam\Desktop\ApiEquipmentNoTest\ApiEquipment\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+C:\Users\hcnam\Desktop\ApiEquipmentNoTest\ApiEquipment\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\hcnam\Desktop\ApiEquipmentNoTest\ApiEquipment\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\hcnam\Desktop\ApiEquipmentNoTest\ApiEquipment\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\hcnam\Desktop\ApiEquipmentNoTest\ApiEquipment\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\hcnam\Desktop\ApiEquipmentNoTest\ApiEquipment\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\hcnam\Desktop\ApiEquipmentNoTest\ApiEquipment\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\hcnam\Desktop\ApiEquipmentNoTest\ApiEquipment\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\hcnam\Desktop\ApiEquipmentNoTest\ApiEquipment\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\hcnam\Desktop\ApiEquipmentNoTest\ApiEquipment\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\hcnam\Desktop\ApiEquipmentNoTest\ApiEquipment\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\hcnam\Desktop\ApiEquipmentNoTest\ApiEquipment\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\hcnam\Desktop\ApiEquipmentNoTest\ApiEquipment\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\hcnam\Desktop\ApiEquipmentNoTest\ApiEquipment\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\hcnam\Desktop\ApiEquipmentNoTest\ApiEquipment\obj\Debug\net6.0\ApiEquipment.csproj.AssemblyReference.cache
+C:\Users\hcnam\Desktop\ApiEquipmentNoTest\ApiEquipment\obj\Debug\net6.0\ApiEquipment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hcnam\Desktop\ApiEquipmentNoTest\ApiEquipment\obj\Debug\net6.0\ApiEquipment.AssemblyInfoInputs.cache
+C:\Users\hcnam\Desktop\ApiEquipmentNoTest\ApiEquipment\obj\Debug\net6.0\ApiEquipment.AssemblyInfo.cs
+C:\Users\hcnam\Desktop\ApiEquipmentNoTest\ApiEquipment\obj\Debug\net6.0\ApiEquipment.csproj.CoreCompileInputs.cache
+C:\Users\hcnam\Desktop\ApiEquipmentNoTest\ApiEquipment\obj\Debug\net6.0\ApiEquipment.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\hcnam\Desktop\ApiEquipmentNoTest\ApiEquipment\obj\Debug\net6.0\ApiEquipment.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\hcnam\Desktop\ApiEquipmentNoTest\ApiEquipment\obj\Debug\net6.0\staticwebassets\msbuild.ApiEquipment.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\hcnam\Desktop\ApiEquipmentNoTest\ApiEquipment\obj\Debug\net6.0\staticwebassets\msbuild.build.ApiEquipment.props
+C:\Users\hcnam\Desktop\ApiEquipmentNoTest\ApiEquipment\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ApiEquipment.props
+C:\Users\hcnam\Desktop\ApiEquipmentNoTest\ApiEquipment\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ApiEquipment.props
+C:\Users\hcnam\Desktop\ApiEquipmentNoTest\ApiEquipment\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\hcnam\Desktop\ApiEquipmentNoTest\ApiEquipment\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\hcnam\Desktop\ApiEquipmentNoTest\ApiEquipment\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\hcnam\Desktop\ApiEquipmentNoTest\ApiEquipment\obj\Debug\net6.0\scopedcss\bundle\ApiEquipment.styles.css
+C:\Users\hcnam\Desktop\ApiEquipmentNoTest\ApiEquipment\obj\Debug\net6.0\ApiEquipment.csproj.CopyComplete
+C:\Users\hcnam\Desktop\ApiEquipmentNoTest\ApiEquipment\obj\Debug\net6.0\ApiEquipment.dll
+C:\Users\hcnam\Desktop\ApiEquipmentNoTest\ApiEquipment\obj\Debug\net6.0\refint\ApiEquipment.dll
+C:\Users\hcnam\Desktop\ApiEquipmentNoTest\ApiEquipment\obj\Debug\net6.0\ApiEquipment.pdb
+C:\Users\hcnam\Desktop\ApiEquipmentNoTest\ApiEquipment\obj\Debug\net6.0\ApiEquipment.genruntimeconfig.cache
+C:\Users\hcnam\Desktop\ApiEquipmentNoTest\ApiEquipment\obj\Debug\net6.0\ref\ApiEquipment.dll
