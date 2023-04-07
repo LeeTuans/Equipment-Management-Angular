@@ -1,0 +1,89 @@
+<div class="box-content">
+  <h2 mat-dialog-title class="m-2">{{ inputData.action }}</h2>
+
+  <!-- <div class="image">
+    <img src="{{ inputData.data ? inputData.data.ImageUrl : image }}" alt="" />
+  </div> -->
+
+  <mat-dialog-content class="mat-typography">
+    <form
+      [formGroup]="form"
+      class="d-flex flex-column"
+      *ngIf="inputData.action == 'CREATE' || inputData.action == 'UPDATE'"
+    >
+      <div class="image mb-3">
+        <img src="{{ image }}" alt="" />
+      </div>
+      <div class="mb-3">
+        <label for="roleName" class="form-label d-block">Select role</label>
+        <mat-radio-group formControlName="ListRoles" id="roleName">
+          <ng-container *ngFor="let item of inputData.listRoles">
+            <mat-radio-button value="{{ item.RoleId }}">{{
+              item.RoleName
+            }}</mat-radio-button>
+          </ng-container>
+        </mat-radio-group>
+      </div>
+      <!-- Name -->
+      <mat-form-field class="example-full-width">
+        <mat-label>Name</mat-label>
+        <input matInput placeholder="Ex. Le Tuan" formControlName="Name" />
+      </mat-form-field>
+
+      <mat-form-field appearance="fill">
+        <mat-label>Enter your email</mat-label>
+        <input
+          matInput
+          placeholder="pat@example.com"
+          formControlName="Email"
+          required
+        />
+        <mat-error *ngIf="true">Email must be a valid email address</mat-error>
+      </mat-form-field>
+
+      <mat-form-field appearance="fill" class="example-form-field">
+        <mat-label>Birthdate</mat-label>
+        <input
+          matInput
+          [matDatepicker]="datepicker"
+          formControlName="Birthdate"
+        />
+        <mat-hint>MM/DD/YYYY</mat-hint>
+        <mat-datepicker-toggle
+          matIconSuffix
+          [for]="datepicker"
+        ></mat-datepicker-toggle>
+        <mat-datepicker #datepicker>
+          <mat-datepicker-actions>
+            <button mat-button matDatepickerCancel>Cancel</button>
+            <button mat-raised-button color="primary" matDatepickerApply>
+              Apply
+            </button>
+          </mat-datepicker-actions>
+        </mat-datepicker>
+      </mat-form-field>
+
+      <mat-form-field class="example-full-width">
+        <mat-label>Avartar</mat-label>
+        <input matInput placeholder="Avartar Url" formControlName="AvatarUrl" />
+      </mat-form-field>
+
+      <a mat-button (click)="image = form.controls['AvatarUrl'].value">
+        Show Avatar
+      </a>
+
+      <!-- Submit -->
+      <div class="button-wrapper">
+        <!-- <button mat-flat-button color="primary">Submit</button> -->
+      </div>
+    </form>
+
+    <div *ngIf="inputData.action == 'DELETE'">
+      Are you sure want to delete this item?
+    </div>
+  </mat-dialog-content>
+  <mat-dialog-actions align="end">
+    <button mat-button [mat-dialog-close]="false">Cancel</button>
+    <button mat-button (click)="save()" cdkFocusInitial>Submit</button>
+  </mat-dialog-actions>
+</div>

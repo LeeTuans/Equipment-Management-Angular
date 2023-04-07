@@ -1,0 +1,66 @@
+<div class="box-content">
+  <h2 mat-dialog-title class="m-2">{{ inputData.action }}</h2>
+
+  <mat-dialog-content class="mat-typography">
+    <form
+      [formGroup]="form"
+      class="d-flex flex-column"
+      (submit)="save()"
+      *ngIf="inputData.action == 'CREATE' || inputData.action == 'UPDATE'"
+    >
+      <div class="image mb-3">
+        <img src="{{ image }}" alt="" />
+      </div>
+
+      <!-- Name -->
+      <mat-form-field class="example-full-width">
+        <mat-label>Name</mat-label>
+        <input matInput placeholder="Name" formControlName="Name" />
+      </mat-form-field>
+
+      <mat-form-field appearance="fill">
+        <mat-label>Type</mat-label>
+        <mat-select formControlName="EquipmentTypeId">
+          <ng-container *ngFor="let item of inputData.dataType">
+            <mat-option value="{{ item.EquipmentTypeId }}">{{
+              item.TypeName
+            }}</mat-option>
+          </ng-container>
+        </mat-select>
+      </mat-form-field>
+
+      <mat-form-field appearance="fill">
+        <mat-label>Status</mat-label>
+        <mat-select formControlName="IsAvailable">
+          <mat-option value="true">Available</mat-option>
+          <mat-option value="false">Out of stock</mat-option>
+        </mat-select>
+      </mat-form-field>
+
+      <mat-form-field appearance="fill">
+        <mat-label>Description</mat-label>
+        <textarea matInput formControlName="Description"></textarea>
+      </mat-form-field>
+
+      <mat-form-field class="example-full-width">
+        <mat-label>Image</mat-label>
+        <input matInput placeholder="Image Url" formControlName="ImageUrl" />
+      </mat-form-field>
+      <a mat-button (click)="image = form.controls['ImageUrl'].value">
+        Show Image
+      </a>
+    </form>
+
+    <div *ngIf="inputData.action == 'DELETE'">
+      Are you sure want to delete this item?
+    </div>
+    <div *ngIf="inputData.action == 'APPROVAL'">Change approval status.</div>
+    <div *ngIf="inputData.action == 'RETURNED_DATE'">
+      Set returned date: {{ date | date }}.
+    </div>
+  </mat-dialog-content>
+  <mat-dialog-actions align="end">
+    <button mat-button [mat-dialog-close]="false">Cancel</button>
+    <button mat-button (click)="save()" cdkFocusInitial>Submit</button>
+  </mat-dialog-actions>
+</div>

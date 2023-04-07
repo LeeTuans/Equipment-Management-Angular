@@ -1,0 +1,96 @@
+<div class="d-flex justify-content-center align-items-center">
+  <div class="container my-3 my-md-5">
+    <div class="row d-flex justify-content-center">
+      <div class="col-12 col-md-8 col-lg-6">
+        <div class="card bg-white shadow-lg border-top border-0">
+          <div class="card-body p-5">
+            <button class="btn btn-outline-dark" routerLink="/login">
+              <i class="bi bi-arrow-left-circle-fill"></i>
+            </button>
+            <form
+              [formGroup]="form"
+              (ngSubmit)="onSubmit()"
+              class="mb-3 mt-md-4"
+            >
+              <h2 class="fw-bold mb-2 text-uppercase mb-4">Sign Up</h2>
+
+              <div class="mb-3">
+                <label for="roleName" class="form-label d-block"
+                  >Select role</label
+                >
+                <mat-radio-group formControlName="ListRoles" id="roleName">
+                  <ng-container *ngFor="let item of listRoles">
+                    <mat-radio-button value="{{ item.RoleId }}">{{
+                      item.RoleName
+                    }}</mat-radio-button>
+                  </ng-container>
+                </mat-radio-group>
+              </div>
+
+              <div class="mb-3">
+                <label for="fullName" class="form-label">Full name</label>
+                <input
+                  type="text"
+                  class="form-control"
+                  id="fullName"
+                  placeholder="Full name"
+                  formControlName="Name"
+                  [ngClass]="{ 'is-invalid': submitted && f.Name.errors }"
+                />
+              </div>
+
+              <div class="mb-3">
+                <label for="email" class="form-label">Email address</label>
+                <input
+                  type="email"
+                  class="form-control"
+                  id="email"
+                  placeholder="name@email.com"
+                  formControlName="Email"
+                  [ngClass]="{ 'is-invalid': submitted && f.Email.errors }"
+                />
+
+                <div
+                  *ngIf="submitted && f.Email.errors"
+                  class="invalid-feedback"
+                >
+                  <div *ngIf="f.Email.errors['username']">
+                    Email must be a valid email address
+                  </div>
+                </div>
+              </div>
+
+              <div class="mb-3">
+                <label for="password" class="form-label">Password</label>
+                <input
+                  type="password"
+                  class="form-control"
+                  id="password"
+                  placeholder="*******"
+                  formControlName="Password"
+                  [ngClass]="{ 'is-invalid': submitted && f.Password.errors }"
+                />
+                <div
+                  *ngIf="submitted && f.Password.errors"
+                  class="invalid-feedback"
+                >
+                  <div>
+                    Password at least 8 characters. Contains lowercase letters,
+                    uppercase letters, special characters, numbers and no spaces
+                    .
+                  </div>
+                </div>
+              </div>
+
+              <div class="d-grid">
+                <button class="btn btn-outline-dark" type="submit">
+                  Submit
+                </button>
+              </div>
+            </form>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>

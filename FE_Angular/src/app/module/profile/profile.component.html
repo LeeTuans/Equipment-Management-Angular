@@ -1,0 +1,48 @@
+<div class="box-content">
+    <div class="card">
+        <h5 class="card-header">Profile Details</h5>
+        <!-- Account -->
+        <div class="card-body ps-4 pt-4">
+            <img [src]="
+            dataUser && dataUser.AvatarUrl
+              ? dataUser.AvatarUrl
+              : 'https://ps.w.org/user-avatar-reloaded/assets/icon-256x256.png?rev=2540745'
+          " alt="user-avatar" class="user-avatar" height="100" width="100" id="uploadedAvatar" />
+            <h3 class="pt-2">
+                {{ dataUser ? dataUser.Name : "" }}
+            </h3>
+        </div>
+        <div class="card-body m-2">
+            <form id="formAccountSettings" [formGroup]="form" (submit)="onSubmit()">
+                <div class="row">
+                    <div class="mb-3 col-md-6">
+                        <label for="Name" class="form-label">Full Name</label>
+                        <input class="form-control" type="text" formControlName="Name" id="Name"
+                            placeholder="Full Name" />
+                    </div>
+                    <div class="mb-3 col-md-6">
+                        <label for="Email" class="form-label">E-mail</label>
+                        <input class="form-control" type="text" id="Email" formControlName="Email"
+                            placeholder="example@gmail.com" />
+                    </div>
+                    <div class="mb-3 col-md-6">
+                        <label for="Birthdate">Birthday</label>
+                        <input id="Birthdate" formControlName="Birthdate" class="form-control mt-2" type="date" />
+                    </div>
+
+                    <div class="mb-3 col-md-6">
+                        <label for="AvatarUrl" class="form-label">Image Link</label>
+                        <input type="text" class="form-control" id="AvatarUrl" formControlName="AvatarUrl"
+                            placeholder="Image Link" />
+                    </div>
+                    <div class="mt-2">
+                        <button type="submit" class="btn btn-primary me-2">
+                            Save changes
+                        </button>
+                    </div>
+                </div>
+            </form>
+        </div>
+        <!-- /Account -->
+    </div>
+</div>

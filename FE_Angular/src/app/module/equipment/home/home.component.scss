@@ -1,0 +1,32 @@
+.card {
+  margin-bottom: 1rem;
+
+  img {
+    height: 8vw;
+    object-fit: scale-down;
+  }
+}
+
+@media only screen and (min-width: 1400px) and (max-width: 1700px) {
+  .col-xxl-2 {
+    width: 20% !important;
+  }
+}
+
+@media only screen and (max-width: 1400px) {
+  .card img {
+    height: 9vw;
+  }
+}
+
+@media only screen and (max-width: 1200px) {
+  .card img {
+    height: 15vw;
+  }
+}
+
+@media only screen and (max-width: 576px) {
+  .card img {
+    height: 25vw;
+  }
+}

@@ -1,0 +1,42 @@
+<div class="box-content d-flex align-items-center mb-4 p-2">
+    <!-- <mat-form-field> -->
+    <i class="bx bx-search-alt-2 fs-4 ms-2"></i>
+    <input type="text" class="form-control border-0 shadow-none" placeholder="Search..." aria-label="Search..."
+        (keyup)="applyFilter($event)" />
+</div>
+
+<div class="row">
+    <ng-container *ngIf="equipments">
+        <ng-container *ngFor="let item of equipments">
+            <div class="col-6 col-sm-4 col-lg-3 col-xxl-2">
+                <div class="card">
+                    <img [src]="item.ImageUrl" class="card-img-top" alt="..." />
+                    <div class="card-body">
+                        <div class="d-flex justify-content-between">
+                            <h5 class="card-title text-truncate" data-bs-toggle="tooltip" data-bs-placement="bottom"
+                                title="{{ item.Name }}">
+                                {{ item.Name }}
+                            </h5>
+                            <div class="status fs-5 text-success" [class.text-danger]="!item.IsAvailable">
+                                <i class="bx {{
+                      item.IsAvailable ? 'bx-check-square' : 'bx bx-no-entry'
+                    }}"></i>
+                            </div>
+                        </div>
+                        <p class="card-text text-truncate" data-bs-toggle="tooltip" data-bs-placement="bottom"
+                            title="{{ item.Description }}">
+                            {{ item.Description }}
+                        </p>
+                        <button class="btn btn-primary" [disabled]="!item.IsAvailable"
+                            (click)="openDialog(item.EquipmentId)">
+                            Requirement
+                        </button>
+                    </div>
+                </div>
+            </div>
+        </ng-container>
+    </ng-container>
+</div>
+
+<mat-paginator class="box-content" (page)="getServerData($event)" [pageSizeOptions]="[10, 25, 100]"
+    aria-label="Select page of users"></mat-paginator>

@@ -1,0 +1,27 @@
+.box-content {
+  h2 {
+    font-weight: bold;
+  }
+
+  form {
+    width: 30vw;
+
+    .image {
+      text-align: center;
+
+      img {
+        width: 50%;
+      }
+    }
+  }
+
+  mat-dialog-content {
+    overflow-x: hidden;
+  }
+
+  @media only screen and (max-width: 1000px) {
+    form {
+      width: 60vw;
+    }
+  }
+}

@@ -1,0 +1,124 @@
+/* You can add global styles to this file, and also import other style files */
+@import "~bootstrap-icons/font/bootstrap-icons.css";
+@import "../node_modules/@angular/material/prebuilt-themes/deeppurple-amber.css";
+
+:root {
+  --main: #696cff;
+  --text: #566a7f;
+  --text-tilte: #566a7f;
+  --menu-hover: #f5f5f5;
+  --menu-active: #e7e7ff;
+  --background: #f5f5f9;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.box-content {
+  box-shadow: 0 0 0.375rem 0.25rem rgb(161 172 184 / 15%);
+  border-radius: 0.35rem;
+  background-color: white;
+  overflow: hidden;
+
+  .create {
+    box-shadow: 0 0 0.375rem 0.25rem rgb(161 172 184 / 15%);
+    border-radius: 50%;
+
+    &:hover {
+      cursor: pointer;
+      box-shadow: 0 0 1rem 0rem rgb(0 161 27 / 58%);
+    }
+  }
+
+  .scroll-table {
+    overflow-x: auto;
+    position: relative;
+    min-height: 150px;
+
+    .loading-table {
+      position: absolute;
+      top: 3rem;
+      left: 45%;
+    }
+
+    table {
+      width: 100%;
+      min-width: 600px;
+      margin-bottom: 1.5rem;
+
+      th {
+        font-weight: bold;
+
+        &.id {
+          max-width: 30px;
+        }
+      }
+
+      td {
+        color: var(--text);
+
+        .col-name {
+          display: flex;
+          align-items: center;
+          width: 15vw;
+
+          img {
+            height: 40px;
+            width: 40px;
+            margin-right: 0.5rem;
+            object-fit: scale-down;
+          }
+        }
+
+        .col-description {
+          width: 15vw;
+        }
+
+        .action i:hover {
+          cursor: pointer;
+          background-color: var(--menu-hover);
+          border-radius: 50%;
+        }
+
+        .action .notActive:hover {
+          cursor: none;
+          background-color: none;
+        }
+      }
+    }
+  }
+}
+
+.user-avatar {
+  border-radius: 50%;
+  object-fit: cover !important;
+}
+
+.card {
+  border: none !important;
+  box-shadow: 0 0 0.375rem 0.25rem rgb(161 172 184 / 15%);
+}
+
+.content {
+  min-height: 100vh;
+  margin-left: 250px;
+  background-color: var(--background);
+  padding: 0.75rem 1.5rem;
+}
+
+label {
+  font-weight: 600;
+}
+
+.ngx-background-spinner {
+  position: static !important;
+}
+
+@media only screen and (max-width: 1200px) {
+  .content {
+    margin-left: 0;
+  }
+}

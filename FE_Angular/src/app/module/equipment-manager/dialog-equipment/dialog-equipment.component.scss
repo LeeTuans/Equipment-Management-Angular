@@ -1,0 +1,23 @@
+.box-content {
+    h2 {
+        font-weight: bold;
+    }
+
+    .image {
+        text-align: center;
+
+        img {
+            width: 100%;
+        }
+    }
+
+    form {
+        width: 30vw;
+    }
+
+    @media only screen and (max-width: 1000px) {
+        form {
+            width: 60vw;
+        }
+    }
+}

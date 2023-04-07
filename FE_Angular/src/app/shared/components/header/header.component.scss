@@ -1,0 +1,109 @@
+.header-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 100%;
+  border-radius: 0.35rem;
+  background-color: white;
+  box-shadow: 0 0 0.375rem 0.25rem rgb(161 172 184 / 15%);
+
+  .left {
+    .toggle-menu:hover {
+      border-radius: 5px;
+      background-color: var(--menu-hover);
+      cursor: pointer;
+    }
+  }
+
+  .right {
+    position: relative;
+    .avatar {
+      border-radius: 50%;
+
+      img {
+        width: 40px;
+        height: 40px;
+        object-fit: cover;
+      }
+    }
+
+    .dropdown {
+      position: absolute;
+      background-color: white;
+      border-radius: 7px;
+      box-shadow: 0 0 0.375rem 0.25rem rgb(161 172 184 / 15%);
+      width: 210px;
+      right: 0px;
+      top: 50px;
+      display: none;
+
+      &.active {
+        display: block;
+      }
+
+      .description {
+        padding: 0.532rem 1.25rem;
+        display: flex;
+        align-items: center;
+        gap: 5px;
+        line-height: 1;
+
+        .infor {
+          margin-left: 5px;
+          font-weight: bold;
+
+          span {
+            font-size: 0.75rem;
+            color: rgb(165, 182, 200);
+            font-weight: normal;
+          }
+        }
+      }
+
+      ul {
+        padding: 0;
+        margin-bottom: 0.5rem;
+
+        li {
+          list-style: none;
+          border-radius: 5px;
+
+          a {
+            text-decoration: none;
+            color: var(--text);
+
+            div {
+              padding: 0.5rem 1.5rem;
+              font-size: 0.9rem;
+              display: flex;
+              align-items: center;
+              gap: 10px;
+
+              i {
+                font-size: 1rem;
+              }
+            }
+          }
+
+          &:hover {
+            background-color: var(--menu-hover);
+          }
+        }
+      }
+    }
+  }
+}
+
+.dropdown-back {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100vw;
+  height: 100vh;
+  display: none;
+  z-index: -10;
+
+  &.active {
+    display: block;
+  }
+}

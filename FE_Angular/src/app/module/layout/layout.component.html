@@ -1,0 +1,20 @@
+<!-- Menu bar -->
+<app-menu-bar [menuItem]="menuItem" (changeMenuItem)="changeMenuItem($event)" [isToggle]="isToggle"
+    (toggleMenu)="toggleMenu($event)" [class.d-none]="!isToggle" class="d-xl-block"
+    style="width: 250px; margin: 0; padding: 0"></app-menu-bar>
+
+<div class="content">
+    <div class="row">
+        <!-- Header bar -->
+        <div class="col-12 position-sticky top-0" style="z-index: 99">
+            <app-header [isToggle]="isToggle" (toggleMenu)="toggleMenu($event)"
+                (changeMenuItem)="changeMenuItem($event)"></app-header>
+        </div>
+        <!-- Main Content -->
+        <div class="col-12">
+            <div class="my-4">
+                <router-outlet></router-outlet>
+            </div>
+        </div>
+    </div>
+</div>

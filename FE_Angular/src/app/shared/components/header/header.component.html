@@ -1,0 +1,83 @@
+<div class="header-container p-2">
+  <div class="left d-flex align-items-center">
+    <div
+      class="toggle-menu d-flex align-items-center p-1 fs-2 d-block d-xl-none"
+      (click)="onToggle()"
+    >
+      <i class="bx bx-list-ul"></i>
+    </div>
+    <!-- <i class="bx bx-search-alt-2 fs-4 ms-3"></i>
+    <input
+      type="text"
+      class="form-control border-0 shadow-none"
+      placeholder="Search..."
+      aria-label="Search..."
+    /> -->
+  </div>
+
+  <div class="right me-3">
+    <ul class="navbar-nav flex-row align-items-center ms-auto">
+      <li class="fs-4 mx-2"><i class="bx bx-bell"></i></li>
+      <li class="fs-4 mx-2"><i class="bx bx-sun"></i></li>
+      <li class="user ms-2">
+        <a class="avatar" (click)="isActive = !isActive">
+          <img
+            class="user-avatar"
+            [src]="
+              dataUser && dataUser.AvatarUrl
+                ? dataUser.AvatarUrl
+                : 'https://ps.w.org/user-avatar-reloaded/assets/icon-256x256.png?rev=2540745'
+            "
+            alt="Admin"
+            width="40"
+          />
+        </a>
+        <div class="dropdown" [class.active]="isActive">
+          <div class="description">
+            <div class="avatar">
+              <img
+                [src]="
+                  dataUser && dataUser.AvatarUrl
+                    ? dataUser.AvatarUrl
+                    : 'https://ps.w.org/user-avatar-reloaded/assets/icon-256x256.png?rev=2540745'
+                "
+                alt="Admin"
+                width="40"
+              />
+            </div>
+            <div class="infor">
+              <div class="name-user">{{ dataUser ? dataUser.Name : "" }}</div>
+              <span class="role">{{
+                dataUser ? dataUser.Roles[0].RoleName : ""
+              }}</span>
+            </div>
+          </div>
+          <ul>
+            <li (click)="clickItem('Profile')">
+              <a
+                ><div><i class="bx bx-user"></i> My Profile</div></a
+              >
+            </li>
+            <li (click)="clickItem('Change password')">
+              <a
+                ><div>
+                  <i class="bx bx-lock-open-alt"></i> Change Password
+                </div></a
+              >
+            </li>
+            <li (click)="clickItem('Log out')">
+              <a
+                ><div><i class="bx bx-log-out-circle"></i> Log Out</div></a
+              >
+            </li>
+          </ul>
+        </div>
+      </li>
+    </ul>
+  </div>
+</div>
+<div
+  class="dropdown-back"
+  [class.active]="isActive"
+  (click)="isActive = !isActive"
+></div>
