@@ -8,8 +8,7 @@
         "ASPNETCORE_ENVIRONMENT": "Development"
       },
       "dotnetRunMessages": true,
-      //"applicationUrl": "https://192.168.40.70:7148",
-      "applicationUrl": "http://192.168.40.70:7148"
+      "applicationUrl": "http://192.168.[__.__]:7148"   // Add Http IP
 
     },
     "IIS Express": {

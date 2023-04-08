@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\hcnam\\Desktop\\ApiEquipmentNoTest\\ApiEquipment\\ApiEquipment.csproj": {}
+    "E:\\Equipment_management\\BE_C#\\ApiEquipment\\ApiEquipment.csproj": {}
   },
   "projects": {
-    "C:\\Users\\hcnam\\Desktop\\ApiEquipmentNoTest\\ApiEquipment\\ApiEquipment.csproj": {
+    "E:\\Equipment_management\\BE_C#\\ApiEquipment\\ApiEquipment.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\hcnam\\Desktop\\ApiEquipmentNoTest\\ApiEquipment\\ApiEquipment.csproj",
+        "projectUniqueName": "E:\\Equipment_management\\BE_C#\\ApiEquipment\\ApiEquipment.csproj",
         "projectName": "ApiEquipment",
-        "projectPath": "C:\\Users\\hcnam\\Desktop\\ApiEquipmentNoTest\\ApiEquipment\\ApiEquipment.csproj",
-        "packagesPath": "C:\\Users\\hcnam\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\hcnam\\Desktop\\ApiEquipmentNoTest\\ApiEquipment\\obj\\",
+        "projectPath": "E:\\Equipment_management\\BE_C#\\ApiEquipment\\ApiEquipment.csproj",
+        "packagesPath": "C:\\Users\\LE TUAN\\.nuget\\packages\\",
+        "outputPath": "E:\\Equipment_management\\BE_C#\\ApiEquipment\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\hcnam\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\LE TUAN\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -107,29 +107,10 @@
             "net47",
             "net471",
             "net472",
-            "net48",
-            "net481"
+            "net48"
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "downloadDependencies": [
-            {
-              "name": "Microsoft.AspNetCore.App.Ref",
-              "version": "[6.0.14, 6.0.14]"
-            },
-            {
-              "name": "Microsoft.NETCore.App.Host.win-x64",
-              "version": "[6.0.14, 6.0.14]"
-            },
-            {
-              "name": "Microsoft.NETCore.App.Ref",
-              "version": "[6.0.14, 6.0.14]"
-            },
-            {
-              "name": "Microsoft.WindowsDesktop.App.Ref",
-              "version": "[6.0.14, 6.0.14]"
-            }
-          ],
           "frameworkReferences": {
             "Microsoft.AspNetCore.App": {
               "privateAssets": "none"
@@ -138,7 +119,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.302\\RuntimeIdentifierGraph.json"
         }
       }
     }
